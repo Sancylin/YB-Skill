@@ -1,0 +1,6164 @@
+[
+  {
+    "name": "Icon/A",
+    "nodeId": "64:2291",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 20,
+    "dependencies": [],
+    "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+  },
+  {
+    "name": "Icon/B",
+    "nodeId": "64:2292",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "b07424bf5d15a2ed2863d1f6dfa97608f58dd418"
+  },
+  {
+    "name": "Icon/C",
+    "nodeId": "64:2290",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "8bb193f0122ff9f2d73fb9a34eb16eff372db002"
+  },
+  {
+    "name": "Icon/sidebar-menu",
+    "nodeId": "128:12168",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "c6e8598678d715a0b969f8a9dd8ef3b17c220403"
+  },
+  {
+    "name": "Icon/chevron-left",
+    "nodeId": "128:12172",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 2,
+    "dependencies": [],
+    "assetKey": "27a44e7222eafb64c8ecfdc80e280bdd792f3a0b"
+  },
+  {
+    "name": "Icon/chevron-right",
+    "nodeId": "128:12171",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 4,
+    "dependencies": [],
+    "assetKey": "d2378b77eda43005a9af25d024c62ce37b3c4b00"
+  },
+  {
+    "name": "Icon/chevron-up",
+    "nodeId": "128:12170",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "6a999fae72538fbb6c2f0becf0be6b93b3fa587f"
+  },
+  {
+    "name": "Icon/chevron-down",
+    "nodeId": "128:12169",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "9579ac171ce040944452b6f6536c46e313b0c117"
+  },
+  {
+    "name": "Icon/close-sm",
+    "nodeId": "2813:4068",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 4,
+    "dependencies": [],
+    "assetKey": "ec7ccb25ca0d48b39da86175462b3d859c86e127"
+  },
+  {
+    "name": "Icon/close-lg",
+    "nodeId": "5955:44796",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "da25d88a8f44f3a7cabf13480ecd5d757f124335"
+  },
+  {
+    "name": "Icon/done",
+    "nodeId": "3216:29332",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "86faf9db92ee4f5ae108a7f3043fb0084ba2ac68"
+  },
+  {
+    "name": "Icon/Expand",
+    "nodeId": "5776:3448",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "6eff2776cdd33f7e1915ae38be5cd58cc5a5a2e5"
+  },
+  {
+    "name": "Icon/Collapse",
+    "nodeId": "5776:3447",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "ad0f37223def6936ddb4f0240cff4873411e4a12"
+  },
+  {
+    "name": "Icon/Arrow up-left",
+    "nodeId": "3357:14609",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "aa1423349dd78123df62f64c575c9e6f9dd95bc3"
+  },
+  {
+    "name": "Icon/Arrow down-left",
+    "nodeId": "3357:14610",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "1b6a7acb947c64153dd46a3176321170891312eb"
+  },
+  {
+    "name": "Icon/Arrow down-right",
+    "nodeId": "3357:14611",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "84281521b2a2e64e3a598ec9ea42a5b1e5e4897a"
+  },
+  {
+    "name": "Icon/ArrowUpRight",
+    "nodeId": "3357:14612",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "61afb44be1103b55f49c443f28bf2dce76bd47ad"
+  },
+  {
+    "name": "Icon/Previous",
+    "nodeId": "5357:2154",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "9de0cb369292d541e091d3a2edf2e41eac988566"
+  },
+  {
+    "name": "Icon/Next",
+    "nodeId": "5357:2178",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "aeabe655ed4a2e9aae87edaaaf61511c33f9cdba"
+  },
+  {
+    "name": "Icon/Flip",
+    "nodeId": "5357:2593",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "648e8ca411d0667d9ec445f58b76e22ec0c48435"
+  },
+  {
+    "name": "Icon/Networking",
+    "nodeId": "5779:12661",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "265e17b8392aede6568ed1f1cbc406f11eb37d49"
+  },
+  {
+    "name": "Icon/Search",
+    "nodeId": "3397:74956",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 7,
+    "dependencies": [],
+    "assetKey": "2e132349d72aebba20b5e5680875c8e15f44f505"
+  },
+  {
+    "name": "Icon/Clock",
+    "nodeId": "3412:85610",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "c60d7e8a0159c617b396a533c669e3b34e3b44c4"
+  },
+  {
+    "name": "Icon/Volume",
+    "nodeId": "3736:2800",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "d57fadc2a7a469622027b6dfed2b3b88f6933e8c"
+  },
+  {
+    "name": "Icon/Volume-off",
+    "nodeId": "3736:2799",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "9b4f4bbed55eed1a588a87f45c9df6ba1087b667"
+  },
+  {
+    "name": "Icon/Call",
+    "nodeId": "3736:2798",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "ebe12d6031b519e7515d536d8be667798cd8f74c"
+  },
+  {
+    "name": "Icon/Call-animation",
+    "nodeId": "3736:2801",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "ef8bc08e7d72da33f8a1f06d8662e9bc9ba9edb1"
+  },
+  {
+    "name": "Icon/NewChat",
+    "nodeId": "3736:2797",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "99cee26ba57c84f829ee573572c76553ac3df8d6"
+  },
+  {
+    "name": "Icon/TemporaryChat",
+    "nodeId": "3736:2795",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "ab43e1857ff27114188762b5aa864639816ea98a"
+  },
+  {
+    "name": "Icon/TemporaryChat-on",
+    "nodeId": "3736:2796",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "cd8c4bf5ecdd409f6e5c9ff7e3481149809b72a1"
+  },
+  {
+    "name": "Icon/More",
+    "nodeId": "3736:2794",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "b7ff9b95aef3a89adac6deec976a5d68c16011fe"
+  },
+  {
+    "name": "Icon/Plus",
+    "nodeId": "3736:2793",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "d958b34e0f7a1362d42064e1197a16056f622bd8"
+  },
+  {
+    "name": "Icon/Download",
+    "nodeId": "5268:16893",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "e90b953ec7609715e73a43b13271d8dc29a9ccad"
+  },
+  {
+    "name": "Icon/share",
+    "nodeId": "3189:1478",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "d21ce3414ccd3ae06893d6a3080e1adf5a3aa3a2"
+  },
+  {
+    "name": "Icon/link",
+    "nodeId": "5337:17147",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "178af4adc9dd35f0bc1646964f082fe769a87211"
+  },
+  {
+    "name": "Icon/Shopping",
+    "nodeId": "5224:9557",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "57215f3ea8d5517b251a5ef3b1a37304a7887fd1"
+  },
+  {
+    "name": "Icon/VideoAI",
+    "nodeId": "5244:14664",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "fdab1763ffbcfc05901c8318149977a7ea2da763"
+  },
+  {
+    "name": "Icon/CreatePic",
+    "nodeId": "5244:14698",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "b4d4fe3233cfe5afedb097f420ca29eab3dfcca8"
+  },
+  {
+    "name": "Icon/PicturePlus",
+    "nodeId": "5357:2080",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "52531930b3d47390ff031ece4839dcf9e8510871"
+  },
+  {
+    "name": "Icon/SmartPictures",
+    "nodeId": "5357:2705",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "dfe5ca09f9d40f827cf0840432fa723d801ed5d3"
+  },
+  {
+    "name": "ICON/Correct",
+    "nodeId": "5357:2922",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "6f5fcf035f5107ecb22e203a5cc94aa9bad77be9"
+  },
+  {
+    "name": "Icon/SingleMention",
+    "nodeId": "5357:2929",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "8abab2048af32e431c2d63af341de060e52e8972"
+  },
+  {
+    "name": "Icon/CrossTopic",
+    "nodeId": "5357:2930",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "5d810f472254c76676193217e78eaac878b6795c"
+  },
+  {
+    "name": "ICON/FullPage",
+    "nodeId": "5357:2931",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "5f631860225174ea3b96acaae4b2d25bd1d867a5"
+  },
+  {
+    "name": "Icon/Flashlight",
+    "nodeId": "5357:1946",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "9688edf42da71d17883353844da0bb35a7d5a7d5"
+  },
+  {
+    "name": "Icon/OpenFlashlight",
+    "nodeId": "5959:2260",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "f518901f636035d1be5b5a93bb720b4443cf4bab"
+  },
+  {
+    "name": "Icon/Flash",
+    "nodeId": "5357:1961",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "4e7f1f2d5d2df23dc32b4cbcf8dfc4ad4cbf8f4e"
+  },
+  {
+    "name": "Icon/OffFlash",
+    "nodeId": "5959:2180",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "e2a0fe7bf4e330e9e092fbf310964ed9d970035c"
+  },
+  {
+    "name": "Icon/AutoFlash",
+    "nodeId": "5959:2179",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "ab53c614d9248c81f338f5a182b4b79ffd3fca3d"
+  },
+  {
+    "name": "Icon/Filming",
+    "nodeId": "5357:2954",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "3e2d403a4fafa3a5aca82ba8c4569c078161a2f2"
+  },
+  {
+    "name": "Icon/Camera",
+    "nodeId": "5357:2970",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "1a3ee0706a23eabbf388176af0b427574f91e4d6"
+  },
+  {
+    "name": "Icon/Rotate",
+    "nodeId": "5377:2196",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "d0982ccc868d39d92d9061f22ca87bd621999ad0"
+  },
+  {
+    "name": "Icon/Trash",
+    "nodeId": "5777:3884",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "e581f514f59dc2d7e96dcea0d9d9a833701eea6e"
+  },
+  {
+    "name": "Icon/live",
+    "nodeId": "6589:2642",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "5f6e0e3afd79ddb11f01f083b23e493d749c602d"
+  },
+  {
+    "name": "Icon/ contrast",
+    "nodeId": "7550:4101",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "d3f9f5b8a2a58e02af30784ebe79f3c326e55bed"
+  },
+  {
+    "name": "Icon/SentToPai",
+    "nodeId": "8747:7632",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "76b6f575ceb16cf4d7217ff89428579ba3d13261"
+  },
+  {
+    "name": "Icon/ avatar",
+    "nodeId": "8786:29954",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "69da21da8ec3453956ff4573f5346ebf8ee343ff"
+  },
+  {
+    "name": "Icon/ proportion",
+    "nodeId": "10238:11700",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "87b7b1abcecfcd1df1c5aca72b754f4566b68f40"
+  },
+  {
+    "name": "Icon/ voice",
+    "nodeId": "10254:2433",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "463a87d7bf76984b1e363f69a0da24f8ff1d2480"
+  },
+  {
+    "name": "Icon/Arrows",
+    "nodeId": "10734:6200",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "0517b0923f614750e19d3bc8cbbd94e3ef777cf6"
+  },
+  {
+    "name": "Icon/ style",
+    "nodeId": "11194:11520",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "5cb20de0d7b02741a0e1cd975198ea1de0e01644"
+  },
+  {
+    "name": "Icon/Save",
+    "nodeId": "11707:23531",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "759f4eb522016486ca1215f3974588146bf61f69"
+  },
+  {
+    "name": "Icon/Thumbs",
+    "nodeId": "11707:23530",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "2d8952c105ab503fe17c935d85d2138541cd33c8"
+  },
+  {
+    "name": "Icon/Thumbs",
+    "nodeId": "11707:23529",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "f21b260738db199850b00bbf47d1ca1bd6c2c3c9"
+  },
+  {
+    "name": "Icon/Setting",
+    "nodeId": "12252:13622",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 2,
+    "dependencies": [],
+    "assetKey": "25dd11bb008f6196d8b57d9fb9752fbc04075bf0"
+  },
+  {
+    "name": "Icon/Filter",
+    "nodeId": "12252:13643",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "27e522df4036b5d982c5f71e22cb8cb3d52f733a"
+  },
+  {
+    "name": "Icon/Analytics",
+    "nodeId": "18690:45",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "0d4f48876c6e9edfbd6169a18fdc3fa59e849d4e"
+  },
+  {
+    "name": "Icon/Lesson Plan",
+    "nodeId": "18690:46",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "d6fcea68b5818d84145bd7158dbd972edf53cb36"
+  },
+  {
+    "name": "Icon/Finance",
+    "nodeId": "18690:47",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "274f94d4b4f80f9ec11f2396e141d653b6de4773"
+  },
+  {
+    "name": "Icon/Plan",
+    "nodeId": "18690:48",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "0c4bdb3f0af27176e3ceb5e5ec18521945fc39ad"
+  },
+  {
+    "name": "Icon/PPT",
+    "nodeId": "18690:49",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "9465136ecd3fd2c52ca0cd0e3e2199d3aa0440c0"
+  },
+  {
+    "name": "Icon/Online",
+    "nodeId": "18690:44",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "6d128037e013b349c5c1769630eaaefd3cdbfd26"
+  },
+  {
+    "name": "Icon/Temporary Chat",
+    "nodeId": "19258:190",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "8ddf8f1dca88b11f172d78e1132f173f86793bf9"
+  },
+  {
+    "name": "Icon/Exit Temporary Chat",
+    "nodeId": "19258:191",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "197f0d59ccb0533feb7335f975ced1fa8836e4a4"
+  },
+  {
+    "name": "Icon/Mark Unread",
+    "nodeId": "19258:154",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "a7cd42c8b66d2a3bbec7bcccc35b151a4e4a7f55"
+  },
+  {
+    "name": "Icon/Book AI",
+    "nodeId": "19423:227",
+    "type": "COMPONENT",
+    "pageId": "1:2",
+    "pageName": "图标 lcon",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "bfa9ab4a65918da20031dc33e1a5070e7aab0217"
+  },
+  {
+    "name": "mask",
+    "nodeId": "67:529",
+    "type": "COMPONENT_SET",
+    "pageId": "1:7",
+    "pageName": "✅ 蒙层 Mask",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "drawer mask",
+          "popup mask"
+        ],
+        "defaultValue": "popup mask"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 22,
+    "dependencies": [],
+    "assetKey": "798b49cb906225006e81cd375465bb827d183643"
+  },
+  {
+    "name": "divider",
+    "nodeId": "77:272",
+    "type": "COMPONENT_SET",
+    "pageId": "1:8",
+    "pageName": "✅ 分割/描边 Divider",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "default",
+          "PAI",
+          "withLabel"
+        ],
+        "defaultValue": "default"
+      },
+      "direction": {
+        "name": "direction",
+        "type": "VARIANT",
+        "key": "direction",
+        "variantOptions": [
+          "horizontal",
+          "vertical"
+        ],
+        "defaultValue": "horizontal"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 221,
+    "dependencies": [],
+    "assetKey": "b93155d5f44be2215bd97155f5957a1a4e184969"
+  },
+  {
+    "name": "NavBar / Buttons",
+    "nodeId": "76:689",
+    "type": "COMPONENT_SET",
+    "pageId": "1:10",
+    "pageName": "✅ 导航栏 NavBar",
+    "hasVariants": true,
+    "properties": {
+      "Left Slot": {
+        "name": "Left Slot",
+        "type": "SLOT",
+        "key": "Left Slot#1580:63",
+        "defaultValue": "-1:-1"
+      },
+      "Right Slot": {
+        "name": "Right Slot",
+        "type": "SLOT",
+        "key": "Right Slot#1580:69",
+        "defaultValue": "-1:-1"
+      },
+      "Show Right icon": {
+        "name": "Show Right icon",
+        "type": "BOOLEAN",
+        "key": "Show Right icon#1580:75",
+        "defaultValue": false
+      },
+      "Show Left icon": {
+        "name": "Show Left icon",
+        "type": "BOOLEAN",
+        "key": "Show Left icon#1580:81",
+        "defaultValue": true
+      },
+      "Type": {
+        "name": "Type",
+        "type": "VARIANT",
+        "key": "Type",
+        "variantOptions": [
+          "Single",
+          "Multiple",
+          "Icon&Text",
+          "Text",
+          "Back&Badge"
+        ],
+        "defaultValue": "Single"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/A",
+      "Icon/B",
+      "Icon/C",
+      "Icon/chevron-left"
+    ],
+    "instanceCount": 27,
+    "dependencies": [
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      },
+      {
+        "name": "Icon/B",
+        "external": false,
+        "nodeId": "64:2292",
+        "assetKey": "b07424bf5d15a2ed2863d1f6dfa97608f58dd418"
+      },
+      {
+        "name": "Icon/C",
+        "external": false,
+        "nodeId": "64:2290",
+        "assetKey": "8bb193f0122ff9f2d73fb9a34eb16eff372db002"
+      },
+      {
+        "name": "Icon/chevron-left",
+        "external": false,
+        "nodeId": "128:12172",
+        "assetKey": "27a44e7222eafb64c8ecfdc80e280bdd792f3a0b"
+      }
+    ],
+    "assetKey": "f5f465838b9afb8880057f729ee8a5ce02fbbf98"
+  },
+  {
+    "name": ".StatusBar",
+    "nodeId": "82:944",
+    "type": "COMPONENT_SET",
+    "pageId": "1:10",
+    "pageName": "✅ 导航栏 NavBar",
+    "hasVariants": true,
+    "properties": {
+      "Type": {
+        "name": "Type",
+        "type": "VARIANT",
+        "key": "Type",
+        "variantOptions": [
+          "iPhone",
+          "iPad"
+        ],
+        "defaultValue": "iPhone"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 3,
+    "dependencies": [],
+    "assetKey": "4adf2778e636b811df3338a5c73340c6b4dc63cd"
+  },
+  {
+    "name": ".NavBar / Title",
+    "nodeId": "2592:2871",
+    "type": "COMPONENT_SET",
+    "pageId": "1:10",
+    "pageName": "✅ 导航栏 NavBar",
+    "hasVariants": true,
+    "properties": {
+      "Dual Title": {
+        "name": "Dual Title",
+        "type": "VARIANT",
+        "key": "Dual Title",
+        "variantOptions": [
+          "True",
+          "False"
+        ],
+        "defaultValue": "False"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "62871c7e9fdc2bf6505bc25bad43d5c176153ac6"
+  },
+  {
+    "name": "NavBar 导航栏",
+    "nodeId": "82:3021",
+    "type": "COMPONENT_SET",
+    "pageId": "1:10",
+    "pageName": "✅ 导航栏 NavBar",
+    "hasVariants": true,
+    "properties": {
+      "PrimaryBg": {
+        "name": "PrimaryBg",
+        "type": "BOOLEAN",
+        "key": "PrimaryBg#82:6",
+        "defaultValue": true
+      },
+      "Left Slot": {
+        "name": "Left Slot",
+        "type": "SLOT",
+        "key": "Left Slot#87:0",
+        "defaultValue": "-1:-1"
+      },
+      "Right Slot": {
+        "name": "Right Slot",
+        "type": "SLOT",
+        "key": "Right Slot#390:0",
+        "defaultValue": "-1:-1"
+      },
+      "RedDot": {
+        "name": "RedDot",
+        "type": "BOOLEAN",
+        "key": "RedDot#398:8",
+        "defaultValue": false
+      },
+      "ThemeBg": {
+        "name": "ThemeBg",
+        "type": "BOOLEAN",
+        "key": "ThemeBg#449:12",
+        "defaultValue": true
+      },
+      "WhiteBG(H5)": {
+        "name": "WhiteBG(H5)",
+        "type": "BOOLEAN",
+        "key": "WhiteBG(H5)#449:16",
+        "defaultValue": false
+      },
+      "Divider": {
+        "name": "Divider",
+        "type": "BOOLEAN",
+        "key": "Divider#802:0",
+        "defaultValue": true
+      },
+      "Title": {
+        "name": "Title",
+        "type": "BOOLEAN",
+        "key": "Title#809:4",
+        "defaultValue": true
+      },
+      "Left Button": {
+        "name": "Left Button",
+        "type": "BOOLEAN",
+        "key": "Left Button#809:8",
+        "defaultValue": true
+      },
+      "Right Button": {
+        "name": "Right Button",
+        "type": "BOOLEAN",
+        "key": "Right Button#809:12",
+        "defaultValue": true
+      },
+      "SecondaryBg": {
+        "name": "SecondaryBg",
+        "type": "BOOLEAN",
+        "key": "SecondaryBg#2863:0",
+        "defaultValue": false
+      },
+      "Badge Number": {
+        "name": "Badge Number",
+        "type": "BOOLEAN",
+        "key": "Badge Number#5101:0",
+        "defaultValue": false
+      },
+      "Middle Slot": {
+        "name": "Middle Slot",
+        "type": "SLOT",
+        "key": "Middle Slot#5359:0",
+        "defaultValue": "-1:-1"
+      },
+      "Bar Type": {
+        "name": "Bar Type",
+        "type": "VARIANT",
+        "key": "Bar Type",
+        "variantOptions": [
+          "Agent",
+          "Gradient Color Bg",
+          "Fixed Color Bg",
+          "Agent_iPad",
+          "Gradient Color Bg_iPad",
+          "Fixed Color Bg_iPad",
+          "Bar new icon"
+        ],
+        "defaultValue": "Agent"
+      }
+    },
+    "childInstanceTags": [
+      ".StatusBar",
+      "NavBar / Buttons",
+      "Badge / Dot",
+      "Badge / Number",
+      "Icon/chevron-right",
+      "Left",
+      "Right",
+      ".NavBar / Title",
+      "divider"
+    ],
+    "instanceCount": 118,
+    "dependencies": [
+      {
+        "name": ".StatusBar",
+        "external": false,
+        "nodeId": "82:944",
+        "assetKey": "4adf2778e636b811df3338a5c73340c6b4dc63cd"
+      },
+      {
+        "name": "NavBar / Buttons",
+        "external": false,
+        "nodeId": "76:689",
+        "assetKey": "f5f465838b9afb8880057f729ee8a5ce02fbbf98"
+      },
+      {
+        "name": "Badge / Dot",
+        "external": false,
+        "nodeId": "105:3740",
+        "assetKey": "8ce0aadbb79bc4c431c248abd820344631e9865d"
+      },
+      {
+        "name": "Badge / Number",
+        "external": false,
+        "nodeId": "105:3511",
+        "assetKey": "07fd9bfbece25b149eef53165e9512cdeb0cde52"
+      },
+      {
+        "name": "Icon/chevron-right",
+        "external": false,
+        "nodeId": "128:12171",
+        "assetKey": "d2378b77eda43005a9af25d024c62ce37b3c4b00"
+      },
+      {
+        "name": ".NavBar / Title",
+        "external": false,
+        "nodeId": "2592:2871",
+        "assetKey": "62871c7e9fdc2bf6505bc25bad43d5c176153ac6"
+      },
+      {
+        "name": "divider",
+        "external": false,
+        "nodeId": "77:272",
+        "assetKey": "b93155d5f44be2215bd97155f5957a1a4e184969"
+      }
+    ],
+    "assetKey": "59bfbcca7cc3c17c26bcd23f39647342891699a5"
+  },
+  {
+    "name": ".TabBar / Icon",
+    "nodeId": "119:9587",
+    "type": "COMPONENT",
+    "pageId": "1:13",
+    "pageName": "✅ 底部标签栏 TabBar",
+    "hasVariants": false,
+    "properties": {
+      "Badge": {
+        "name": "Badge",
+        "type": "BOOLEAN",
+        "key": "Badge#119:107",
+        "defaultValue": false
+      },
+      "RedDot": {
+        "name": "RedDot",
+        "type": "BOOLEAN",
+        "key": "RedDot#119:108",
+        "defaultValue": false
+      }
+    },
+    "childInstanceTags": [
+      ".TabBar / Icons-Mode Options",
+      "Badge / Dot",
+      "Badge / Number"
+    ],
+    "instanceCount": 8,
+    "dependencies": [
+      {
+        "name": ".TabBar / Icons-Mode Options",
+        "external": false,
+        "nodeId": "5544:3301",
+        "assetKey": "472f8de1c21a30fb3c0ad8f5d2932bb3c1950a31"
+      },
+      {
+        "name": "Badge / Dot",
+        "external": false,
+        "nodeId": "105:3740",
+        "assetKey": "8ce0aadbb79bc4c431c248abd820344631e9865d"
+      },
+      {
+        "name": "Badge / Number",
+        "external": false,
+        "nodeId": "105:3511",
+        "assetKey": "07fd9bfbece25b149eef53165e9512cdeb0cde52"
+      }
+    ],
+    "assetKey": "e19f538e4b5e86f1ee0a53dd00aa3f066c2fe8d7"
+  },
+  {
+    "name": "TabBar 底部标签栏",
+    "nodeId": "119:10030",
+    "type": "COMPONENT_SET",
+    "pageId": "1:13",
+    "pageName": "✅ 底部标签栏 TabBar",
+    "hasVariants": true,
+    "properties": {
+      "Selected": {
+        "name": "Selected",
+        "type": "VARIANT",
+        "key": "Selected",
+        "variantOptions": [
+          "Tab 1 & Input",
+          "Tab 1",
+          "Tab 2",
+          "Tab 3",
+          "Tab 4"
+        ],
+        "defaultValue": "Tab 1 & Input"
+      }
+    },
+    "childInstanceTags": [
+      "TabBar/Icon 1",
+      "TabBar/Icon 2",
+      "TabBar/Icon 3",
+      "TabBar/Icon 4",
+      "Agent Input",
+      "TabBar 底部标签栏"
+    ],
+    "instanceCount": 40,
+    "dependencies": [
+      {
+        "name": ".TabBar / Icon",
+        "external": false,
+        "nodeId": "119:9587",
+        "assetKey": "e19f538e4b5e86f1ee0a53dd00aa3f066c2fe8d7"
+      },
+      {
+        "name": "Agent Input",
+        "external": false,
+        "nodeId": "5779:38683",
+        "assetKey": "0647937a8e603c50703bc7658c7f01ca9eba2c54"
+      },
+      {
+        "name": "TabBar 底部标签栏",
+        "external": false,
+        "nodeId": "119:10030",
+        "assetKey": "26f9b3195c568e54650adfdae8e147d67099edff"
+      }
+    ],
+    "assetKey": "26f9b3195c568e54650adfdae8e147d67099edff"
+  },
+  {
+    "name": ".TabBar / Icons-Mode Options",
+    "nodeId": "5544:3301",
+    "type": "COMPONENT_SET",
+    "pageId": "1:13",
+    "pageName": "✅ 底部标签栏 TabBar",
+    "hasVariants": true,
+    "properties": {
+      "Type": {
+        "name": "Type",
+        "type": "VARIANT",
+        "key": "Type",
+        "variantOptions": [
+          "AskYuanbao",
+          "Pai",
+          "Discovery",
+          "We",
+          "Last time"
+        ],
+        "defaultValue": "AskYuanbao"
+      },
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "off",
+          "on"
+        ],
+        "defaultValue": "off"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "472f8de1c21a30fb3c0ad8f5d2932bb3c1950a31"
+  },
+  {
+    "name": "BrowserToolbar",
+    "nodeId": "10812:2100",
+    "type": "COMPONENT",
+    "pageId": "10785:4040",
+    "pageName": "✅ 浏览器底部栏 BrowserToolbar",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [
+      ".BrowserToolbar/icon"
+    ],
+    "instanceCount": 14,
+    "dependencies": [
+      {
+        "name": ".BrowserToolbar/icon",
+        "external": false,
+        "nodeId": "10785:4054",
+        "assetKey": "160c396adc42f7548f08a311bfa52ad6c7a1bc64"
+      }
+    ],
+    "assetKey": "065fb6c58e342b6a8b59bbd3e39ba8ebf5ee6211"
+  },
+  {
+    "name": ".BrowserToolbar/icon",
+    "nodeId": "10785:4054",
+    "type": "COMPONENT_SET",
+    "pageId": "10785:4040",
+    "pageName": "✅ 浏览器底部栏 BrowserToolbar",
+    "hasVariants": true,
+    "properties": {
+      "Direction": {
+        "name": "Direction",
+        "type": "VARIANT",
+        "key": "Direction",
+        "variantOptions": [
+          "Left",
+          "Right"
+        ],
+        "defaultValue": "Left"
+      },
+      "Disable": {
+        "name": "Disable",
+        "type": "VARIANT",
+        "key": "Disable",
+        "variantOptions": [
+          "True",
+          "False"
+        ],
+        "defaultValue": "False"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "160c396adc42f7548f08a311bfa52ad6c7a1bc64"
+  },
+  {
+    "name": "Button 按钮",
+    "nodeId": "1396:5016",
+    "type": "COMPONENT_SET",
+    "pageId": "1:17",
+    "pageName": "✅ 按钮 Button",
+    "hasVariants": true,
+    "properties": {
+      "Left Slot": {
+        "name": "Left Slot",
+        "type": "SLOT",
+        "key": "Left Slot#1325:7",
+        "defaultValue": "-1:-1"
+      },
+      "Right Slot": {
+        "name": "Right Slot",
+        "type": "SLOT",
+        "key": "Right Slot#1325:8",
+        "defaultValue": "-1:-1"
+      },
+      "Right icon": {
+        "name": "Right icon",
+        "type": "BOOLEAN",
+        "key": "Right icon#1325:9",
+        "defaultValue": false
+      },
+      "Left icon": {
+        "name": "Left icon",
+        "type": "BOOLEAN",
+        "key": "Left icon#1325:10",
+        "defaultValue": false
+      },
+      "Shadow": {
+        "name": "Shadow",
+        "type": "BOOLEAN",
+        "key": "Shadow#4597:0",
+        "defaultValue": false
+      },
+      "Type": {
+        "name": "Type",
+        "type": "VARIANT",
+        "key": "Type",
+        "variantOptions": [
+          "Primary",
+          "Secondary",
+          "Gray",
+          "Alert",
+          "Outline",
+          "Text"
+        ],
+        "defaultValue": "Primary"
+      },
+      "Size": {
+        "name": "Size",
+        "type": "VARIANT",
+        "key": "Size",
+        "variantOptions": [
+          "L",
+          "M",
+          "M-",
+          "S+",
+          "S",
+          "XS"
+        ],
+        "defaultValue": "L"
+      },
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "Default",
+          "Pressed",
+          "Disable"
+        ],
+        "defaultValue": "Default"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/A"
+    ],
+    "instanceCount": 257,
+    "dependencies": [
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      }
+    ],
+    "assetKey": "6636b4bdb1c006a22f4ecbea623f518bea705089"
+  },
+  {
+    "name": ".Agent Input/Icon",
+    "nodeId": "5731:25367",
+    "type": "COMPONENT_SET",
+    "pageId": "1:18",
+    "pageName": "✅ 输入框 Agent Input",
+    "hasVariants": true,
+    "properties": {
+      "Type": {
+        "name": "Type",
+        "type": "VARIANT",
+        "key": "Type",
+        "variantOptions": [
+          "Camera",
+          "Voice",
+          "Plus",
+          "Keyboard",
+          "Sticker",
+          "Photo"
+        ],
+        "defaultValue": "Camera"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "5945cdcd069bf02525fa838e04e22e67ad900554"
+  },
+  {
+    "name": ".Agent Input/ButtonCombination",
+    "nodeId": "5731:25475",
+    "type": "COMPONENT_SET",
+    "pageId": "1:18",
+    "pageName": "✅ 输入框 Agent Input",
+    "hasVariants": true,
+    "properties": {
+      "Type": {
+        "name": "Type",
+        "type": "VARIANT",
+        "key": "Type",
+        "variantOptions": [
+          "Voice & Plus",
+          "Keyboard & Plus",
+          "Send & Plus",
+          "Stop & Plus",
+          "Send & Voice & Plus",
+          "Plus Only",
+          "Voice Only",
+          "Send Only"
+        ],
+        "defaultValue": "Voice & Plus"
+      }
+    },
+    "childInstanceTags": [
+      ".Agent Input/Icon",
+      ".Agent Input/PrimaryButton"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": ".Agent Input/Icon",
+        "external": false,
+        "nodeId": "5731:25367",
+        "assetKey": "5945cdcd069bf02525fa838e04e22e67ad900554"
+      },
+      {
+        "name": ".Agent Input/PrimaryButton",
+        "external": false,
+        "nodeId": "5759:3000",
+        "assetKey": "e897a07740aa917c6d63c3ffa9bb7828a8c9cd17"
+      }
+    ],
+    "assetKey": "fa3ec38b39c6bbc0939f925f07e58721ae3c5be8"
+  },
+  {
+    "name": ".Agent Input/PrimaryButton",
+    "nodeId": "5759:3000",
+    "type": "COMPONENT_SET",
+    "pageId": "1:18",
+    "pageName": "✅ 输入框 Agent Input",
+    "hasVariants": true,
+    "properties": {
+      "Type": {
+        "name": "Type",
+        "type": "VARIANT",
+        "key": "Type",
+        "variantOptions": [
+          "Send",
+          "Stop"
+        ],
+        "defaultValue": "Send"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "e897a07740aa917c6d63c3ffa9bb7828a8c9cd17"
+  },
+  {
+    "name": "Agent Input",
+    "nodeId": "5779:38683",
+    "type": "COMPONENT_SET",
+    "pageId": "1:18",
+    "pageName": "✅ 输入框 Agent Input",
+    "hasVariants": true,
+    "properties": {
+      "Slot": {
+        "name": "Slot",
+        "type": "SLOT",
+        "key": "Slot#5779:8",
+        "defaultValue": "-1:-1"
+      },
+      "Left Btn": {
+        "name": "Left Btn",
+        "type": "BOOLEAN",
+        "key": "Left Btn#5779:16",
+        "defaultValue": true
+      },
+      "Icon-Slot": {
+        "name": "Icon-Slot",
+        "type": "SLOT",
+        "key": "Icon-Slot#14028:0",
+        "defaultValue": "-1:-1"
+      },
+      "Type": {
+        "name": "Type",
+        "type": "VARIANT",
+        "key": "Type",
+        "variantOptions": [
+          "Default",
+          "Voice",
+          "Inputting",
+          "Stopped",
+          "Upload",
+          "Long Text",
+          "Atomic-Default",
+          "Atomic-Customized"
+        ],
+        "defaultValue": "Default"
+      }
+    },
+    "childInstanceTags": [
+      "Left Btn",
+      "Right Btn",
+      "Icon/A",
+      "Icon/close-sm",
+      "卡片",
+      "Icon/close-lg",
+      "Icon/Expand"
+    ],
+    "instanceCount": 46,
+    "dependencies": [
+      {
+        "name": ".Agent Input/Icon",
+        "external": false,
+        "nodeId": "5731:25367",
+        "assetKey": "5945cdcd069bf02525fa838e04e22e67ad900554"
+      },
+      {
+        "name": ".Agent Input/ButtonCombination",
+        "external": false,
+        "nodeId": "5731:25475",
+        "assetKey": "fa3ec38b39c6bbc0939f925f07e58721ae3c5be8"
+      },
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      },
+      {
+        "name": "Icon/close-sm",
+        "external": false,
+        "nodeId": "2813:4068",
+        "assetKey": "ec7ccb25ca0d48b39da86175462b3d859c86e127"
+      },
+      {
+        "name": "卡片",
+        "external": false,
+        "nodeId": "2850:35131",
+        "assetKey": "ee4300f6008f53955f24875e113b5696b8b0b9ca"
+      },
+      {
+        "name": "Icon/close-lg",
+        "external": false,
+        "nodeId": "5955:44796",
+        "assetKey": "da25d88a8f44f3a7cabf13480ecd5d757f124335"
+      },
+      {
+        "name": "Icon/Expand",
+        "external": false,
+        "nodeId": "5776:3448",
+        "assetKey": "6eff2776cdd33f7e1915ae38be5cd58cc5a5a2e5"
+      }
+    ],
+    "assetKey": "0647937a8e603c50703bc7658c7f01ca9eba2c54"
+  },
+  {
+    "name": "Keyboard",
+    "nodeId": "20288:52099",
+    "type": "COMPONENT",
+    "pageId": "1:18",
+    "pageName": "✅ 输入框 Agent Input",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "be325de4696db06ae3816848a1c4132ee7571a54"
+  },
+  {
+    "name": "Radio & CheckBox",
+    "nodeId": "559:4217",
+    "type": "COMPONENT_SET",
+    "pageId": "1:19",
+    "pageName": "✅ 选框 Radio & CheckBox",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "circled",
+          "plain"
+        ],
+        "defaultValue": "circled"
+      },
+      "state": {
+        "name": "state",
+        "type": "VARIANT",
+        "key": "state",
+        "variantOptions": [
+          "unchecked",
+          "checked",
+          "disabled",
+          "checkedDisabled"
+        ],
+        "defaultValue": "unchecked"
+      },
+      "size": {
+        "name": "size",
+        "type": "VARIANT",
+        "key": "size",
+        "variantOptions": [
+          "lg",
+          "sm"
+        ],
+        "defaultValue": "lg"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 48,
+    "dependencies": [],
+    "assetKey": "01309029307e33b8969eb347b535fdacf8b47c3d"
+  },
+  {
+    "name": "menu/divider",
+    "nodeId": "3582:29365",
+    "type": "COMPONENT_SET",
+    "pageId": "1:20",
+    "pageName": "✅ 菜单 Menu",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "horiThin",
+          "vertical",
+          "horiBold"
+        ],
+        "defaultValue": "horiThin"
+      }
+    },
+    "childInstanceTags": [
+      "divider"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": "divider",
+        "external": false,
+        "nodeId": "77:272",
+        "assetKey": "b93155d5f44be2215bd97155f5957a1a4e184969"
+      }
+    ],
+    "assetKey": "2e5f0e2120ce651a1fdb602548df5954280a29c7"
+  },
+  {
+    "name": "menu/vertical/item",
+    "nodeId": "3582:29348",
+    "type": "COMPONENT_SET",
+    "pageId": "1:20",
+    "pageName": "✅ 菜单 Menu",
+    "hasVariants": true,
+    "properties": {
+      "icon": {
+        "name": "icon",
+        "type": "SLOT",
+        "key": "icon#3731:43",
+        "defaultValue": "-1:-1"
+      },
+      "pressed": {
+        "name": "pressed",
+        "type": "VARIANT",
+        "key": "pressed",
+        "variantOptions": [
+          "off",
+          "on"
+        ],
+        "defaultValue": "off"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/A"
+    ],
+    "instanceCount": 4,
+    "dependencies": [
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      }
+    ],
+    "assetKey": "234b5a44698b14366301184818d2b3f21d7cf86b"
+  },
+  {
+    "name": "menu/horizontal/item",
+    "nodeId": "3582:18800",
+    "type": "COMPONENT_SET",
+    "pageId": "1:20",
+    "pageName": "✅ 菜单 Menu",
+    "hasVariants": true,
+    "properties": {
+      "check": {
+        "name": "check",
+        "type": "BOOLEAN",
+        "key": "check#3582:3",
+        "defaultValue": false
+      },
+      "entry": {
+        "name": "entry",
+        "type": "BOOLEAN",
+        "key": "entry#3582:6",
+        "defaultValue": false
+      },
+      "desc": {
+        "name": "desc",
+        "type": "BOOLEAN",
+        "key": "desc#3582:9",
+        "defaultValue": false
+      },
+      "icon": {
+        "name": "icon",
+        "type": "SLOT",
+        "key": "icon#3674:30",
+        "defaultValue": "-1:-1"
+      },
+      "pressed": {
+        "name": "pressed",
+        "type": "VARIANT",
+        "key": "pressed",
+        "variantOptions": [
+          "off",
+          "on"
+        ],
+        "defaultValue": "off"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/A",
+      "Radio & CheckBox",
+      "Icon / Chevron-right"
+    ],
+    "instanceCount": 12,
+    "dependencies": [
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      },
+      {
+        "name": "Radio & CheckBox",
+        "external": false,
+        "nodeId": "559:4217",
+        "assetKey": "01309029307e33b8969eb347b535fdacf8b47c3d"
+      },
+      {
+        "name": "Icon/chevron-left",
+        "external": false,
+        "nodeId": "128:12172",
+        "assetKey": "27a44e7222eafb64c8ecfdc80e280bdd792f3a0b"
+      }
+    ],
+    "assetKey": "a47c7d13958bf15a37933f560f37220ed8508ef1"
+  },
+  {
+    "name": "menu/horizontal",
+    "nodeId": "3633:29866",
+    "type": "COMPONENT",
+    "pageId": "1:20",
+    "pageName": "✅ 菜单 Menu",
+    "hasVariants": false,
+    "properties": {
+      "headerItems": {
+        "name": "headerItems",
+        "type": "SLOT",
+        "key": "headerItems#3652:12",
+        "defaultValue": "-1:-1"
+      },
+      "defaultItems": {
+        "name": "defaultItems",
+        "type": "SLOT",
+        "key": "defaultItems#3652:13",
+        "defaultValue": "-1:-1"
+      },
+      "groupItem": {
+        "name": "groupItem",
+        "type": "SLOT",
+        "key": "groupItem#3652:14",
+        "defaultValue": "-1:-1"
+      },
+      "showHeaderItem": {
+        "name": "showHeaderItem",
+        "type": "BOOLEAN",
+        "key": "showHeaderItem#3652:15",
+        "defaultValue": false
+      },
+      "showGroupItem": {
+        "name": "showGroupItem",
+        "type": "BOOLEAN",
+        "key": "showGroupItem#3652:16",
+        "defaultValue": false
+      }
+    },
+    "childInstanceTags": [
+      "menu/vertical/item",
+      "menu/divider",
+      "menu/horizontal/item"
+    ],
+    "instanceCount": 35,
+    "dependencies": [
+      {
+        "name": "menu/vertical/item",
+        "external": false,
+        "nodeId": "3582:29348",
+        "assetKey": "234b5a44698b14366301184818d2b3f21d7cf86b"
+      },
+      {
+        "name": "menu/divider",
+        "external": false,
+        "nodeId": "3582:29365",
+        "assetKey": "2e5f0e2120ce651a1fdb602548df5954280a29c7"
+      },
+      {
+        "name": "menu/horizontal/item",
+        "external": false,
+        "nodeId": "3582:18800",
+        "assetKey": "a47c7d13958bf15a37933f560f37220ed8508ef1"
+      }
+    ],
+    "assetKey": "be065b0618d490afdd7430edc22dcb46ca8e9295"
+  },
+  {
+    "name": "menu/vertical",
+    "nodeId": "4169:19868",
+    "type": "COMPONENT_SET",
+    "pageId": "1:20",
+    "pageName": "✅ 菜单 Menu",
+    "hasVariants": true,
+    "properties": {
+      "defaultItems": {
+        "name": "defaultItems",
+        "type": "SLOT",
+        "key": "defaultItems#4169:0",
+        "defaultValue": "-1:-1"
+      },
+      "GroupItems": {
+        "name": "GroupItems",
+        "type": "SLOT",
+        "key": "GroupItems#4169:1",
+        "defaultValue": "-1:-1"
+      },
+      "showGroupItems": {
+        "name": "showGroupItems",
+        "type": "BOOLEAN",
+        "key": "showGroupItems#4169:2",
+        "defaultValue": false
+      },
+      "direction": {
+        "name": "direction",
+        "type": "VARIANT",
+        "key": "direction",
+        "variantOptions": [
+          "up",
+          "down"
+        ],
+        "defaultValue": "up"
+      }
+    },
+    "childInstanceTags": [
+      "menu/vertical/item",
+      "menu/divider"
+    ],
+    "instanceCount": 13,
+    "dependencies": [
+      {
+        "name": "menu/vertical/item",
+        "external": false,
+        "nodeId": "3582:29348",
+        "assetKey": "234b5a44698b14366301184818d2b3f21d7cf86b"
+      },
+      {
+        "name": "menu/divider",
+        "external": false,
+        "nodeId": "3582:29365",
+        "assetKey": "2e5f0e2120ce651a1fdb602548df5954280a29c7"
+      }
+    ],
+    "assetKey": "95f41e80dfb0299f283b5a62c8cdde1ec0615305"
+  },
+  {
+    "name": "Form/SingleLine",
+    "nodeId": "8841:7396",
+    "type": "COMPONENT_SET",
+    "pageId": "1:21",
+    "pageName": "✅ 表单 Form",
+    "hasVariants": true,
+    "properties": {
+      "active": {
+        "name": "active",
+        "type": "BOOLEAN",
+        "key": "active#8841:0",
+        "defaultValue": true
+      },
+      "align": {
+        "name": "align",
+        "type": "VARIANT",
+        "key": "align",
+        "variantOptions": [
+          "middle",
+          "left"
+        ],
+        "defaultValue": "middle"
+      },
+      "input": {
+        "name": "input",
+        "type": "VARIANT",
+        "key": "input",
+        "variantOptions": [
+          "off",
+          "on"
+        ],
+        "defaultValue": "off"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 22,
+    "dependencies": [],
+    "assetKey": "e50671f64c1a6fafffe6929061b464f8e8076c61"
+  },
+  {
+    "name": "Form/DoubleLine",
+    "nodeId": "8841:7399",
+    "type": "COMPONENT_SET",
+    "pageId": "1:21",
+    "pageName": "✅ 表单 Form",
+    "hasVariants": true,
+    "properties": {
+      "active": {
+        "name": "active",
+        "type": "BOOLEAN",
+        "key": "active#8857:0",
+        "defaultValue": true
+      },
+      "delete": {
+        "name": "delete",
+        "type": "BOOLEAN",
+        "key": "delete#8857:3",
+        "defaultValue": true
+      },
+      "Cursor": {
+        "name": "Cursor",
+        "type": "SLOT",
+        "key": "Cursor#9274:0",
+        "defaultValue": "-1:-1"
+      },
+      "scroll": {
+        "name": "scroll",
+        "type": "BOOLEAN",
+        "key": "scroll#11754:0",
+        "defaultValue": false
+      },
+      "input": {
+        "name": "input",
+        "type": "VARIANT",
+        "key": "input",
+        "variantOptions": [
+          "off",
+          "on"
+        ],
+        "defaultValue": "off"
+      }
+    },
+    "childInstanceTags": [
+      "Leave Button Icon"
+    ],
+    "instanceCount": 17,
+    "dependencies": [
+      {
+        "name": "IC_Invite",
+        "external": true,
+        "assetKey": "b2d5561662eb4b9e1d59217223ed5e1c75e79403"
+      }
+    ],
+    "assetKey": "751e644b628a812780faa328dc926c8e1c1d492d"
+  },
+  {
+    "name": "Switch",
+    "nodeId": "1436:10",
+    "type": "COMPONENT_SET",
+    "pageId": "1:24",
+    "pageName": "✅ 开关 Switch",
+    "hasVariants": true,
+    "properties": {
+      "turnOn": {
+        "name": "turnOn",
+        "type": "VARIANT",
+        "key": "turnOn",
+        "variantOptions": [
+          "true",
+          "false"
+        ],
+        "defaultValue": "true"
+      },
+      "disabled": {
+        "name": "disabled",
+        "type": "VARIANT",
+        "key": "disabled",
+        "variantOptions": [
+          "false",
+          "true"
+        ],
+        "defaultValue": "false"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 11,
+    "dependencies": [],
+    "assetKey": "ea900cba045ecded42656c7417f1e171aca2a616"
+  },
+  {
+    "name": ".history/item",
+    "nodeId": "3412:85622",
+    "type": "COMPONENT",
+    "pageId": "1:25",
+    "pageName": "✅ 搜索栏 SearchBar",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [
+      "Icon/Clock",
+      "Icon/close-sm"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": "Icon/Clock",
+        "external": false,
+        "nodeId": "3412:85610",
+        "assetKey": "c60d7e8a0159c617b396a533c669e3b34e3b44c4"
+      },
+      {
+        "name": "Icon/close-sm",
+        "external": false,
+        "nodeId": "2813:4068",
+        "assetKey": "ec7ccb25ca0d48b39da86175462b3d859c86e127"
+      }
+    ],
+    "assetKey": "ea40b87913e7c20fa0ac03c50489b42f122280f6"
+  },
+  {
+    "name": "search",
+    "nodeId": "3412:84459",
+    "type": "COMPONENT_SET",
+    "pageId": "1:25",
+    "pageName": "✅ 搜索栏 SearchBar",
+    "hasVariants": true,
+    "properties": {
+      "paiName": {
+        "name": "paiName",
+        "type": "BOOLEAN",
+        "key": "paiName#3412:0",
+        "defaultValue": false
+      },
+      "status": {
+        "name": "status",
+        "type": "VARIANT",
+        "key": "status",
+        "variantOptions": [
+          "default",
+          "focus",
+          "inputted"
+        ],
+        "defaultValue": "default"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/Search"
+    ],
+    "instanceCount": 26,
+    "dependencies": [
+      {
+        "name": "Icon/Search",
+        "external": false,
+        "nodeId": "3397:74956",
+        "assetKey": "2e132349d72aebba20b5e5680875c8e15f44f505"
+      }
+    ],
+    "assetKey": "a7157c825517fda6e8190d07235bfeb1ac0d9fc8"
+  },
+  {
+    "name": ".historyItems",
+    "nodeId": "3438:109094",
+    "type": "COMPONENT_SET",
+    "pageId": "1:25",
+    "pageName": "✅ 搜索栏 SearchBar",
+    "hasVariants": true,
+    "properties": {
+      "clear": {
+        "name": "clear",
+        "type": "BOOLEAN",
+        "key": "clear#3438:5",
+        "defaultValue": true
+      },
+      "result": {
+        "name": "result",
+        "type": "VARIANT",
+        "key": "result",
+        "variantOptions": [
+          "true",
+          "false"
+        ],
+        "defaultValue": "true"
+      }
+    },
+    "childInstanceTags": [
+      ".history/item"
+    ],
+    "instanceCount": 5,
+    "dependencies": [
+      {
+        "name": ".history/item",
+        "external": false,
+        "nodeId": "3412:85622",
+        "assetKey": "ea40b87913e7c20fa0ac03c50489b42f122280f6"
+      }
+    ],
+    "assetKey": "93b5182f82697cb86102a5a99330dee4dc1f5f0d"
+  },
+  {
+    "name": "Markdown",
+    "nodeId": "15287:4201",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "ol_slot": {
+        "name": "ol_slot",
+        "type": "SLOT",
+        "key": "ol_slot#330:0",
+        "defaultValue": "-1:-1"
+      },
+      "ul_slot": {
+        "name": "ul_slot",
+        "type": "SLOT",
+        "key": "ul_slot#330:16",
+        "defaultValue": "-1:-1"
+      },
+      "table_content": {
+        "name": "table_content",
+        "type": "SLOT",
+        "key": "table_content#330:32",
+        "defaultValue": "-1:-1"
+      },
+      "items": {
+        "name": "items",
+        "type": "SLOT",
+        "key": "items#377:6",
+        "defaultValue": "-1:-1"
+      },
+      "QuoteText": {
+        "name": "QuoteText",
+        "type": "SLOT",
+        "key": "QuoteText#2722:0",
+        "defaultValue": "-1:-1"
+      },
+      "body": {
+        "name": "body",
+        "type": "SLOT",
+        "key": "body#2765:0",
+        "defaultValue": "-1:-1"
+      },
+      "latex": {
+        "name": "latex",
+        "type": "SLOT",
+        "key": "latex#16915:0",
+        "defaultValue": "-1:-1"
+      },
+      "promptAttachment": {
+        "name": "promptAttachment",
+        "type": "BOOLEAN",
+        "key": "promptAttachment#18455:7",
+        "defaultValue": false
+      },
+      "variant": {
+        "name": "variant",
+        "type": "VARIANT",
+        "key": "variant",
+        "variantOptions": [
+          "prompt",
+          "Progress",
+          "H1",
+          "H2",
+          "Others+H2",
+          "H3",
+          "Others+H3",
+          "H4",
+          "Others+H4",
+          "Body",
+          "OL",
+          "UL",
+          "Divider",
+          "Table",
+          "Code",
+          "File",
+          "Quote",
+          "InlineLaTex",
+          "WrappedInlineLaTex",
+          "DisplayLaTex",
+          "sugForm",
+          "Toolbar",
+          "followUp",
+          "video",
+          "IMG",
+          "ImgWidget",
+          "miniProgram",
+          "AiEdu",
+          "recording"
+        ],
+        "defaultValue": "prompt"
+      }
+    },
+    "childInstanceTags": [
+      ".MD/sent",
+      ".MD/progress",
+      ".MD/ol",
+      ".MD/ul",
+      "divider",
+      "Markdown",
+      "图标 / 16/ 复制",
+      "Icon/Download 48",
+      "Icon/Unpin",
+      "Icon/Copy 48",
+      "Icon/Maximize 2/48",
+      "查看全部",
+      ".MD/IMG",
+      ".MD/video",
+      ".状态",
+      "Icon/chevron-right",
+      "Button 按钮",
+      ".MD/followupButtons",
+      ".MD/toolbar"
+    ],
+    "instanceCount": 328,
+    "dependencies": [
+      {
+        "name": ".MD/sent",
+        "external": false,
+        "nodeId": "18455:29747",
+        "assetKey": "8527c768eef7db58a2f2212e4e4d6c190286437d"
+      },
+      {
+        "name": ".MD/progress",
+        "external": false,
+        "nodeId": "15287:4740",
+        "assetKey": "a2ab59e424639090a81119c3a0d31ea099d0dc7a"
+      },
+      {
+        "name": ".MD/ol",
+        "external": false,
+        "nodeId": "15287:4723",
+        "assetKey": "407bb6fcc8b8e55b5c6fc450d507a5ec7e867b71"
+      },
+      {
+        "name": ".MD/ul",
+        "external": false,
+        "nodeId": "15287:4730",
+        "assetKey": "d72efeb7bb6fd6993443b96cd5e8d6ac42b50598"
+      },
+      {
+        "name": "divider",
+        "external": false,
+        "nodeId": "77:272",
+        "assetKey": "b93155d5f44be2215bd97155f5957a1a4e184969"
+      },
+      {
+        "name": "Markdown",
+        "external": false,
+        "nodeId": "15287:4201",
+        "assetKey": "2663facd91ebabb68750b5f713a3bd0b7a3db734"
+      },
+      {
+        "name": "图标 / 16/ 复制",
+        "external": true,
+        "assetKey": "451909e75db54de6caf8a75de03ed5e4e48e278f"
+      },
+      {
+        "name": "Icon/Download 48",
+        "external": true,
+        "assetKey": "5e90edbf0284fead7addc73462c0e66c8df45e0f"
+      },
+      {
+        "name": "Icon/Unpin",
+        "external": true,
+        "assetKey": "bedb4d19a672d8e7f509c09dffdca9adb3e68bf2"
+      },
+      {
+        "name": "Icon/Copy 48",
+        "external": true,
+        "assetKey": "164a6aa5e5cd062dfe009da5c20b94c1267df3c0"
+      },
+      {
+        "name": "Icon/Maximize 2/48",
+        "external": true,
+        "assetKey": "83fe11c3bd49ab61aededba47d7d1ede83adcc94"
+      },
+      {
+        "name": "查看全部",
+        "external": true,
+        "assetKey": "26e2a9339c8faaf0d3bcbb704871626c19fcdc3f"
+      },
+      {
+        "name": ".MD/IMG",
+        "external": false,
+        "nodeId": "15331:18879",
+        "assetKey": "36d45cbd4ec872b4ff442aeafa86609f9d3dbab1"
+      },
+      {
+        "name": ".MD/video",
+        "external": false,
+        "nodeId": "15331:17801",
+        "assetKey": "27689b442b700dbf1abea5fd6d9e20dd68ded791"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8700",
+        "assetKey": "9607e9482340c863962aee004f52cf161833de51"
+      },
+      {
+        "name": "Icon/chevron-right",
+        "external": false,
+        "nodeId": "128:12171",
+        "assetKey": "d2378b77eda43005a9af25d024c62ce37b3c4b00"
+      },
+      {
+        "name": "Button 按钮",
+        "external": false,
+        "nodeId": "1396:5016",
+        "assetKey": "6636b4bdb1c006a22f4ecbea623f518bea705089"
+      },
+      {
+        "name": ".MD/followupButtons",
+        "external": false,
+        "nodeId": "15287:4858",
+        "assetKey": "70fe25363bdf849c0b1f29429a604883d1bc0b61"
+      },
+      {
+        "name": ".MD/toolbar",
+        "external": false,
+        "nodeId": "18333:21907",
+        "assetKey": "367c08b387e871a6a10109bcc69a29971e7a5fb7"
+      }
+    ],
+    "assetKey": "2663facd91ebabb68750b5f713a3bd0b7a3db734"
+  },
+  {
+    "name": ".MD/ol/num",
+    "nodeId": "15287:4718",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "variant": {
+        "name": "variant",
+        "type": "VARIANT",
+        "key": "variant",
+        "variantOptions": [
+          "0-9",
+          "10+"
+        ],
+        "defaultValue": "0-9"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "b50ab28c831d76c4fe8797d9152c5c2424a41d77"
+  },
+  {
+    "name": ".MD/ol",
+    "nodeId": "15287:4723",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "level": {
+        "name": "level",
+        "type": "VARIANT",
+        "key": "level",
+        "variantOptions": [
+          "1",
+          "2",
+          "3"
+        ],
+        "defaultValue": "1"
+      }
+    },
+    "childInstanceTags": [
+      ".MD/ol/num"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": ".MD/ol/num",
+        "external": false,
+        "nodeId": "15287:4718",
+        "assetKey": "b50ab28c831d76c4fe8797d9152c5c2424a41d77"
+      }
+    ],
+    "assetKey": "407bb6fcc8b8e55b5c6fc450d507a5ec7e867b71"
+  },
+  {
+    "name": ".MD/ul",
+    "nodeId": "15287:4730",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "solid"
+        ],
+        "defaultValue": "solid"
+      },
+      "level": {
+        "name": "level",
+        "type": "VARIANT",
+        "key": "level",
+        "variantOptions": [
+          "1",
+          "2",
+          "3"
+        ],
+        "defaultValue": "1"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "d72efeb7bb6fd6993443b96cd5e8d6ac42b50598"
+  },
+  {
+    "name": ".MD/progress",
+    "nodeId": "15287:4740",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "status": {
+        "name": "status",
+        "type": "VARIANT",
+        "key": "status",
+        "variantOptions": [
+          "clarify",
+          "done",
+          "loading"
+        ],
+        "defaultValue": "done"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/chevron-right",
+      "Icon/chevron-down"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": "Icon/chevron-right",
+        "external": false,
+        "nodeId": "128:12171",
+        "assetKey": "d2378b77eda43005a9af25d024c62ce37b3c4b00"
+      },
+      {
+        "name": "Icon/chevron-down",
+        "external": false,
+        "nodeId": "128:12169",
+        "assetKey": "9579ac171ce040944452b6f6536c46e313b0c117"
+      }
+    ],
+    "assetKey": "a2ab59e424639090a81119c3a0d31ea099d0dc7a"
+  },
+  {
+    "name": ".MD/followupButtons",
+    "nodeId": "15287:4858",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "Property 1": {
+        "name": "Property 1",
+        "type": "VARIANT",
+        "key": "Property 1",
+        "variantOptions": [
+          "longText",
+          "multi2",
+          "multi3",
+          "single"
+        ],
+        "defaultValue": "single"
+      }
+    },
+    "childInstanceTags": [
+      "Button 按钮"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": "Button 按钮",
+        "external": false,
+        "nodeId": "1396:5016",
+        "assetKey": "6636b4bdb1c006a22f4ecbea623f518bea705089"
+      }
+    ],
+    "assetKey": "70fe25363bdf849c0b1f29429a604883d1bc0b61"
+  },
+  {
+    "name": ".MD/video",
+    "nodeId": "15331:17801",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "videos": {
+        "name": "videos",
+        "type": "SLOT",
+        "key": "videos#15331:58",
+        "defaultValue": "-1:-1"
+      },
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "horizontal",
+          "multi",
+          "vertical"
+        ],
+        "defaultValue": "horizontal"
+      }
+    },
+    "childInstanceTags": [
+      "play",
+      "info"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": "Group 1312318358",
+        "external": true,
+        "assetKey": "1c82963af022f23412231716216d6fe8e6064841"
+      },
+      {
+        "name": "信息展示条",
+        "external": true,
+        "assetKey": "714cd42c31603bdcae572ae3937418d5369725b1"
+      }
+    ],
+    "assetKey": "27689b442b700dbf1abea5fd6d9e20dd68ded791"
+  },
+  {
+    "name": ".MD/IMG",
+    "nodeId": "15331:18879",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "IMGS": {
+        "name": "IMGS",
+        "type": "SLOT",
+        "key": "IMGS#18333:0",
+        "defaultValue": "-1:-1"
+      },
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "3:4",
+          "4:3",
+          "1:1",
+          "multi",
+          "grid",
+          "type6",
+          "singleAIGC"
+        ],
+        "defaultValue": "3:4"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "36d45cbd4ec872b4ff442aeafa86609f9d3dbab1"
+  },
+  {
+    "name": ".MD/toolbarItems/like",
+    "nodeId": "18333:21815",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "click": {
+        "name": "click",
+        "type": "VARIANT",
+        "key": "click",
+        "variantOptions": [
+          "true",
+          "false"
+        ],
+        "defaultValue": "false"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "bf752df53d39b1b24da75926918eb028acae0ea0"
+  },
+  {
+    "name": ".MD/toolbarItems/dislike",
+    "nodeId": "18333:21819",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "click": {
+        "name": "click",
+        "type": "VARIANT",
+        "key": "click",
+        "variantOptions": [
+          "true",
+          "false"
+        ],
+        "defaultValue": "false"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "be6f93b5e52ea452fbe6ee4f19d1f0d385f55582"
+  },
+  {
+    "name": ".MD/toolbarItems/play",
+    "nodeId": "18333:21837",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "status": {
+        "name": "status",
+        "type": "VARIANT",
+        "key": "status",
+        "variantOptions": [
+          "play",
+          "playing",
+          "paused"
+        ],
+        "defaultValue": "play"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "5ae2f92102c2677e066f8375691659b82e17f240"
+  },
+  {
+    "name": ".MD/toolbar",
+    "nodeId": "18333:21907",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "Default",
+          "recreate",
+          "playing"
+        ],
+        "defaultValue": "Default"
+      }
+    },
+    "childInstanceTags": [
+      ".MD/toolbarItems/play",
+      "actionPause",
+      ".MD/toolbarItems/like",
+      ".MD/toolbarItems/dislike",
+      "Icon/More",
+      "actionRefresh",
+      "actionsCopy",
+      "actionsShare",
+      "信源类型",
+      "icon"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": ".MD/toolbarItems/play",
+        "external": false,
+        "nodeId": "18333:21837",
+        "assetKey": "5ae2f92102c2677e066f8375691659b82e17f240"
+      },
+      {
+        "name": "icon_bottom-pause",
+        "external": true,
+        "assetKey": "0a01d566681c38753444e5c4ab57d7ecf6dab7a3"
+      },
+      {
+        "name": ".MD/toolbarItems/like",
+        "external": false,
+        "nodeId": "18333:21815",
+        "assetKey": "bf752df53d39b1b24da75926918eb028acae0ea0"
+      },
+      {
+        "name": ".MD/toolbarItems/dislike",
+        "external": false,
+        "nodeId": "18333:21819",
+        "assetKey": "be6f93b5e52ea452fbe6ee4f19d1f0d385f55582"
+      },
+      {
+        "name": "Icon/More",
+        "external": false,
+        "nodeId": "3736:2794",
+        "assetKey": "b7ff9b95aef3a89adac6deec976a5d68c16011fe"
+      },
+      {
+        "name": "操作",
+        "external": true,
+        "assetKey": "380776b1bc1b454498ffc511554e1fff517975d9"
+      },
+      {
+        "name": "信源类型",
+        "external": true,
+        "assetKey": "650c0982710c1f87d0c7dcfa6f0868a87d51cf02"
+      },
+      {
+        "name": "icon",
+        "external": true,
+        "assetKey": "d58eebcaeb78afa15f6f96acadee7d0f6d27c5c0"
+      }
+    ],
+    "assetKey": "367c08b387e871a6a10109bcc69a29971e7a5fb7"
+  },
+  {
+    "name": ".MD/sent",
+    "nodeId": "18455:29747",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "file",
+          "image",
+          "wechat",
+          "公众号"
+        ],
+        "defaultValue": "wechat"
+      }
+    },
+    "childInstanceTags": [
+      "卡片",
+      "icon"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": "卡片",
+        "external": false,
+        "nodeId": "2850:35131",
+        "assetKey": "ee4300f6008f53955f24875e113b5696b8b0b9ca"
+      },
+      {
+        "name": "icon",
+        "external": true,
+        "assetKey": "fbad0518511ca706d033ffa8dd5bf2a53da6c760"
+      }
+    ],
+    "assetKey": "8527c768eef7db58a2f2212e4e4d6c190286437d"
+  },
+  {
+    "name": ".MD/agent/Attachment​",
+    "nodeId": "19064:29059",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "Slot": {
+        "name": "Slot",
+        "type": "SLOT",
+        "key": "Slot#4091:0",
+        "defaultValue": "-1:-1"
+      },
+      "Slot 2": {
+        "name": "Slot 2",
+        "type": "SLOT",
+        "key": "Slot 2#4091:6",
+        "defaultValue": "-1:-1"
+      },
+      "Slot 3": {
+        "name": "Slot 3",
+        "type": "SLOT",
+        "key": "Slot 3#4091:12",
+        "defaultValue": "-1:-1"
+      },
+      "Slot 4": {
+        "name": "Slot 4",
+        "type": "SLOT",
+        "key": "Slot 4#4091:18",
+        "defaultValue": "-1:-1"
+      },
+      "Slot 5": {
+        "name": "Slot 5",
+        "type": "SLOT",
+        "key": "Slot 5#4350:28",
+        "defaultValue": "-1:-1"
+      },
+      "附件类型": {
+        "name": "附件类型",
+        "type": "VARIANT",
+        "key": "附件类型",
+        "variantOptions": [
+          "fetch",
+          "search",
+          "file",
+          "img",
+          "video"
+        ],
+        "defaultValue": "fetch"
+      }
+    },
+    "childInstanceTags": [
+      "信源类型",
+      "Frame 2119904173",
+      "节点icon/搜索",
+      "Icon/File/48",
+      "Group 2119902898",
+      "Group 2119902899",
+      "Group 2119902900",
+      "Group 2119902901",
+      "Group 2119902902"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": "信源类型",
+        "external": true,
+        "assetKey": "650c0982710c1f87d0c7dcfa6f0868a87d51cf02"
+      },
+      {
+        "name": "Frame 2119904171",
+        "external": true,
+        "assetKey": "8be2f297840ace3852c213bb632b8853649ec5fd"
+      },
+      {
+        "name": "节点icon/搜索",
+        "external": true,
+        "assetKey": "780f573f71ce7c211caccbe956b18f82be1b9d3f"
+      },
+      {
+        "name": "Icon/File/48",
+        "external": true,
+        "assetKey": "5483c36d06a2252e3dcd1378f96d9d0416f8e373"
+      },
+      {
+        "name": "Group 1312318358",
+        "external": true,
+        "assetKey": "f4fc81231b56c6802dfb31370f55a4f8d604b761"
+      }
+    ],
+    "assetKey": "caac7a40404a937723bdacb181e7af1e8e19ebc6"
+  },
+  {
+    "name": ".MD/agent/nodeIcon",
+    "nodeId": "19064:29193",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {},
+    "childInstanceTags": [
+      "Icon/Check circle 48",
+      "grid",
+      "Icon/Edit/48",
+      "深度思考",
+      "节点icon/搜索"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": "Icon/Check circle 48",
+        "external": true,
+        "assetKey": "b8f35db6045805c29b2d37799656a53f337cb2cb"
+      },
+      {
+        "name": "grid",
+        "external": true,
+        "assetKey": "30c837fc1588c80bfb843e0155db1fc94f6a9ecd"
+      },
+      {
+        "name": "Icon/Edit/48",
+        "external": true,
+        "assetKey": "2f68595c1ef139ce69b1b1af91e790a23379c88c"
+      },
+      {
+        "name": "深度思考",
+        "external": true,
+        "assetKey": "94bf18ac752d6ad8660d34b93793db9f532057fa"
+      },
+      {
+        "name": "节点icon/搜索",
+        "external": true,
+        "assetKey": "780f573f71ce7c211caccbe956b18f82be1b9d3f"
+      }
+    ],
+    "assetKey": "61e615cb21737ec8e1e4660c700ef56586111de9"
+  },
+  {
+    "name": ".MD/agent",
+    "nodeId": "19073:63353",
+    "type": "COMPONENT_SET",
+    "pageId": "2618:22645",
+    "pageName": "✅ 输出 Markdown",
+    "hasVariants": true,
+    "properties": {
+      "image": {
+        "name": "image",
+        "type": "SLOT",
+        "key": "image#19073:0",
+        "defaultValue": "-1:-1"
+      },
+      "Property 1": {
+        "name": "Property 1",
+        "type": "VARIANT",
+        "key": "Property 1",
+        "variantOptions": [
+          "search",
+          "skill",
+          "bash",
+          "write",
+          "edit",
+          "读取",
+          "fetch",
+          "搜图",
+          "类型13",
+          "ocr",
+          "任务",
+          "视频",
+          "澄清"
+        ],
+        "defaultValue": "澄清"
+      }
+    },
+    "childInstanceTags": [
+      ".MD/agent/nodeIcon",
+      "节点icon",
+      "Icon/chevron-down",
+      "附件",
+      "Markdown",
+      ".MD/agent/Attachment​",
+      "search"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": ".MD/agent/nodeIcon",
+        "external": false,
+        "nodeId": "19064:29193",
+        "assetKey": "61e615cb21737ec8e1e4660c700ef56586111de9"
+      },
+      {
+        "name": "节点icon",
+        "external": true,
+        "assetKey": "2aeb2b9165a0694ce19acfce49206b81b416fe48"
+      },
+      {
+        "name": "节点icon",
+        "external": true,
+        "assetKey": "571dd3ceb0e1c92604fa0b6198803d1272bda87b"
+      },
+      {
+        "name": "Icon/chevron-down",
+        "external": false,
+        "nodeId": "128:12169",
+        "assetKey": "9579ac171ce040944452b6f6536c46e313b0c117"
+      },
+      {
+        "name": "附件",
+        "external": true,
+        "assetKey": "88cd50d30b5a7d9a35a1e1df5de8e14e51bd41d6"
+      },
+      {
+        "name": "Markdown",
+        "external": false,
+        "nodeId": "15287:4201",
+        "assetKey": "2663facd91ebabb68750b5f713a3bd0b7a3db734"
+      },
+      {
+        "name": ".MD/agent/Attachment​",
+        "external": false,
+        "nodeId": "19064:29059",
+        "assetKey": "caac7a40404a937723bdacb181e7af1e8e19ebc6"
+      }
+    ],
+    "assetKey": "29271421829f81bdb172de032fc2b385b5f036c0"
+  },
+  {
+    "name": "Settings/items",
+    "nodeId": "4139:19690",
+    "type": "COMPONENT_SET",
+    "pageId": "2:2",
+    "pageName": "✅  列表 List",
+    "hasVariants": true,
+    "properties": {
+      "state": {
+        "name": "state",
+        "type": "VARIANT",
+        "key": "state",
+        "variantOptions": [
+          "primary",
+          "secondary",
+          "withsubtitle"
+        ],
+        "defaultValue": "primary"
+      }
+    },
+    "childInstanceTags": [
+      ".Settings/items/cell"
+    ],
+    "instanceCount": 10,
+    "dependencies": [
+      {
+        "name": ".Settings/items/cell",
+        "external": false,
+        "nodeId": "8451:3541",
+        "assetKey": "44ac24adbebac15ec527b2b8a96a508db715f0dd"
+      }
+    ],
+    "assetKey": "014eca6e6d4479fec4d2e42237d82d7725934e7e"
+  },
+  {
+    "name": "File/items",
+    "nodeId": "4822:7543",
+    "type": "COMPONENT_SET",
+    "pageId": "2:2",
+    "pageName": "✅  列表 List",
+    "hasVariants": true,
+    "properties": {
+      "Show time": {
+        "name": "Show time",
+        "type": "BOOLEAN",
+        "key": "Show time#4822:0",
+        "defaultValue": true
+      },
+      "des": {
+        "name": "des",
+        "type": "SLOT",
+        "key": "des#4822:3",
+        "defaultValue": "-1:-1"
+      },
+      "Icon": {
+        "name": "Icon",
+        "type": "SLOT",
+        "key": "Icon#4822:6",
+        "defaultValue": "-1:-1"
+      },
+      "icon": {
+        "name": "icon",
+        "type": "VARIANT",
+        "key": "icon",
+        "variantOptions": [
+          "left",
+          "right"
+        ],
+        "defaultValue": "left"
+      }
+    },
+    "childInstanceTags": [
+      ".File"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": ".File",
+        "external": false,
+        "nodeId": "2850:10220",
+        "assetKey": "29b50700c388bd532287f745c1a921d4a2c13b25"
+      }
+    ],
+    "assetKey": "a3f35805acec8e9c35ceaedd645d9b08b82b78f4"
+  },
+  {
+    "name": "List",
+    "nodeId": "4822:26458",
+    "type": "COMPONENT_SET",
+    "pageId": "2:2",
+    "pageName": "✅  列表 List",
+    "hasVariants": true,
+    "properties": {
+      "right slot": {
+        "name": "right slot",
+        "type": "SLOT",
+        "key": "right slot#4822:17",
+        "defaultValue": "-1:-1"
+      },
+      "left slot": {
+        "name": "left slot",
+        "type": "SLOT",
+        "key": "left slot#4822:21",
+        "defaultValue": "-1:-1"
+      },
+      "Show Header": {
+        "name": "Show Header",
+        "type": "BOOLEAN",
+        "key": "Show Header#7516:0",
+        "defaultValue": true
+      },
+      "slot": {
+        "name": "slot",
+        "type": "SLOT",
+        "key": "slot#7516:1",
+        "defaultValue": "-1:-1"
+      },
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "smallFile",
+          "settings",
+          "largeFile"
+        ],
+        "defaultValue": "settings"
+      }
+    },
+    "childInstanceTags": [
+      "File/items",
+      "Settings/items"
+    ],
+    "instanceCount": 35,
+    "dependencies": [
+      {
+        "name": "File/items",
+        "external": false,
+        "nodeId": "4822:7543",
+        "assetKey": "a3f35805acec8e9c35ceaedd645d9b08b82b78f4"
+      },
+      {
+        "name": "Settings/items",
+        "external": false,
+        "nodeId": "4139:19690",
+        "assetKey": "014eca6e6d4479fec4d2e42237d82d7725934e7e"
+      }
+    ],
+    "assetKey": "14a53f052d458a28ec93696b6d9df6b2b549d77d"
+  },
+  {
+    "name": ".Settings/items/cell",
+    "nodeId": "8451:3541",
+    "type": "COMPONENT_SET",
+    "pageId": "2:2",
+    "pageName": "✅  列表 List",
+    "hasVariants": true,
+    "properties": {
+      "items": {
+        "name": "items",
+        "type": "VARIANT",
+        "key": "items",
+        "variantOptions": [
+          "Radio",
+          "items",
+          "swtich"
+        ],
+        "defaultValue": "items"
+      }
+    },
+    "childInstanceTags": [
+      "Badge / Dot",
+      "Icon",
+      ".List/settings/container/items/swtich",
+      "Radio & CheckBox"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": "Badge / Dot",
+        "external": false,
+        "nodeId": "105:3740",
+        "assetKey": "8ce0aadbb79bc4c431c248abd820344631e9865d"
+      },
+      {
+        "name": "Icon/chevron-right",
+        "external": false,
+        "nodeId": "128:12171",
+        "assetKey": "d2378b77eda43005a9af25d024c62ce37b3c4b00"
+      },
+      {
+        "name": "Switch",
+        "external": false,
+        "nodeId": "1436:10",
+        "assetKey": "ea900cba045ecded42656c7417f1e171aca2a616"
+      },
+      {
+        "name": "Radio & CheckBox",
+        "external": false,
+        "nodeId": "559:4217",
+        "assetKey": "01309029307e33b8969eb347b535fdacf8b47c3d"
+      }
+    ],
+    "assetKey": "44ac24adbebac15ec527b2b8a96a508db715f0dd"
+  },
+  {
+    "name": "Settings/fullWidthItem",
+    "nodeId": "19766:25427",
+    "type": "COMPONENT_SET",
+    "pageId": "2:2",
+    "pageName": "✅  列表 List",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "单行列表-常规",
+          "单行列表-带开关",
+          "双行列表-常规",
+          "双行列表-带开关",
+          "三行列表-常规",
+          "三行列表-带开关",
+          "居中按钮",
+          "居中按钮-敏感操作"
+        ],
+        "defaultValue": "单行列表-常规"
+      },
+      "showDot": {
+        "name": "showDot",
+        "type": "BOOLEAN",
+        "key": "showDot#15106:0",
+        "defaultValue": false
+      }
+    },
+    "childInstanceTags": [
+      "List/itemTitle",
+      "List/trailingContent",
+      "List/trailingSwitch",
+      "List/trailingIcon"
+    ],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "cece29593dfd0177b7b5ea5c15dc269ffbf54733"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8626",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "64e52ecf325133bfa5777282a35f2a333b35310f"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8646",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "a2f709a3e9e7108a9e602a13cc3f864bc695bde9"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8664",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "69ad24412ea29f29ad6bea09c494c6fea1d9cc98"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8682",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "59a32a33079599a64b16edd981d3f6c38f9c974d"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8700",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 1,
+    "dependencies": [],
+    "assetKey": "9607e9482340c863962aee004f52cf161833de51"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8723",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "1a7a1faf8dd8a2ac1e34ecf0749a5411b48d6ffc"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8741",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "b2e5cbb9477c1a6f8612adc3b84adbe4441065b2"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8761",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "3f1147ef545bccbabdcaba46cebbdea941436088"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8802",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "9873f3fb8ba703f96ad96e1e3364f0bc466981b8"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8823",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "f233af2f68d8cbb22eae51137340e54d2b1e1b0b"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8839",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "f326e73ec5ab7345366beb784de4e93203d2ef2c"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "12241:13925",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "Property 1": {
+        "name": "Property 1",
+        "type": "VARIANT",
+        "key": "Property 1",
+        "variantOptions": [
+          "loading",
+          "error",
+          "reload"
+        ],
+        "defaultValue": "loading"
+      }
+    },
+    "childInstanceTags": [
+      ".状态"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8626",
+        "assetKey": "64e52ecf325133bfa5777282a35f2a333b35310f"
+      }
+    ],
+    "assetKey": "194800cd8278c080f0f5b2fdf30db6f1aa01d3f2"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "16228:11591",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "Property 1": {
+        "name": "Property 1",
+        "type": "VARIANT",
+        "key": "Property 1",
+        "variantOptions": [
+          "Default",
+          "error",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "Default"
+      }
+    },
+    "childInstanceTags": [
+      ".状态"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8626",
+        "assetKey": "64e52ecf325133bfa5777282a35f2a333b35310f"
+      }
+    ],
+    "assetKey": "5159296cf64d2fbc15ee7d61c638a6789ce887b9"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8932",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "af53f2b7d7d44daa584000f5da3d9597183e5947"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8952",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "d4c53f7a50dc48473f4d5dc7a53d707d323572bd"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8970",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "eeb4f25c63fdef5ba363e104bfa0b58fb6cf7c4b"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:8988",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "69feb12f83bd34d9ec8cdff930d49e6a836135a3"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:9006",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "9beb56e070fb3d43b6a524e715001348a24537c8"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:9029",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "c2052139753a56db110c6bd26b1a50ae6c7bde4c"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:9047",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "571d7bd5868f0b374395071bd28a3671642980c5"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:9067",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "ebe24edc567ff623a276f84feeaea9e4de0a9acd"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:9086",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "3195104c05dd804babcc07ec8eb16f88235faa81"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:9107",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "State5",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "80b7bc2cd81cde64dc3fedfa01fe395c76d72420"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "2850:9123",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "State": {
+        "name": "State",
+        "type": "VARIANT",
+        "key": "State",
+        "variantOptions": [
+          "error",
+          "icon",
+          "loading",
+          "refresh"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "df6022e76b6fffec08aa9d61db005ec19e218aac"
+  },
+  {
+    "name": ".状态",
+    "nodeId": "12241:14049",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "Property 1": {
+        "name": "Property 1",
+        "type": "VARIANT",
+        "key": "Property 1",
+        "variantOptions": [
+          "loading",
+          "error",
+          "reload"
+        ],
+        "defaultValue": "loading"
+      }
+    },
+    "childInstanceTags": [
+      ".状态"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8626",
+        "assetKey": "64e52ecf325133bfa5777282a35f2a333b35310f"
+      }
+    ],
+    "assetKey": "8f72a2ea8414b4fd57a7afefc14fdfa7688f7142"
+  },
+  {
+    "name": ".File",
+    "nodeId": "2850:10220",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "File": {
+        "name": "File",
+        "type": "VARIANT",
+        "key": "File",
+        "variantOptions": [
+          "Audio",
+          "Code",
+          "Excel",
+          "Link",
+          "PDF",
+          "PPT",
+          "Picture",
+          "Text",
+          "Unknow",
+          "Video",
+          "Word",
+          "zip",
+          "markdown"
+        ],
+        "defaultValue": "Word"
+      },
+      "Mode": {
+        "name": "Mode",
+        "type": "VARIANT",
+        "key": "Mode",
+        "variantOptions": [
+          "Dark",
+          "Light"
+        ],
+        "defaultValue": "Light"
+      }
+    },
+    "childInstanceTags": [
+      ".状态"
+    ],
+    "instanceCount": 2,
+    "dependencies": [
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8932",
+        "assetKey": "af53f2b7d7d44daa584000f5da3d9597183e5947"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8952",
+        "assetKey": "d4c53f7a50dc48473f4d5dc7a53d707d323572bd"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8970",
+        "assetKey": "eeb4f25c63fdef5ba363e104bfa0b58fb6cf7c4b"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8988",
+        "assetKey": "69feb12f83bd34d9ec8cdff930d49e6a836135a3"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:9006",
+        "assetKey": "9beb56e070fb3d43b6a524e715001348a24537c8"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:9029",
+        "assetKey": "c2052139753a56db110c6bd26b1a50ae6c7bde4c"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:9047",
+        "assetKey": "571d7bd5868f0b374395071bd28a3671642980c5"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:9086",
+        "assetKey": "3195104c05dd804babcc07ec8eb16f88235faa81"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:9107",
+        "assetKey": "80b7bc2cd81cde64dc3fedfa01fe395c76d72420"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:9067",
+        "assetKey": "ebe24edc567ff623a276f84feeaea9e4de0a9acd"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:9123",
+        "assetKey": "df6022e76b6fffec08aa9d61db005ec19e218aac"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8626",
+        "assetKey": "64e52ecf325133bfa5777282a35f2a333b35310f"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8646",
+        "assetKey": "a2f709a3e9e7108a9e602a13cc3f864bc695bde9"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8664",
+        "assetKey": "69ad24412ea29f29ad6bea09c494c6fea1d9cc98"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8682",
+        "assetKey": "59a32a33079599a64b16edd981d3f6c38f9c974d"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8700",
+        "assetKey": "9607e9482340c863962aee004f52cf161833de51"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8723",
+        "assetKey": "1a7a1faf8dd8a2ac1e34ecf0749a5411b48d6ffc"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8741",
+        "assetKey": "b2e5cbb9477c1a6f8612adc3b84adbe4441065b2"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8802",
+        "assetKey": "9873f3fb8ba703f96ad96e1e3364f0bc466981b8"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8823",
+        "assetKey": "f233af2f68d8cbb22eae51137340e54d2b1e1b0b"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8761",
+        "assetKey": "3f1147ef545bccbabdcaba46cebbdea941436088"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "2850:8839",
+        "assetKey": "f326e73ec5ab7345366beb784de4e93203d2ef2c"
+      },
+      {
+        "name": ".状态",
+        "external": false,
+        "nodeId": "16228:11591",
+        "assetKey": "5159296cf64d2fbc15ee7d61c638a6789ce887b9"
+      }
+    ],
+    "assetKey": "29b50700c388bd532287f745c1a921d4a2c13b25"
+  },
+  {
+    "name": "卡片",
+    "nodeId": "2850:35131",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "内容": {
+        "name": "内容",
+        "type": "SLOT",
+        "key": "内容#2850:0",
+        "defaultValue": "-1:-1"
+      },
+      "Left Slot": {
+        "name": "Left Slot",
+        "type": "SLOT",
+        "key": "Left Slot#3243:0",
+        "defaultValue": "-1:-1"
+      },
+      "Close": {
+        "name": "Close",
+        "type": "BOOLEAN",
+        "key": "Close#5842:0",
+        "defaultValue": false
+      },
+      "Card": {
+        "name": "Card",
+        "type": "VARIANT",
+        "key": "Card",
+        "variantOptions": [
+          "File",
+          "Output"
+        ],
+        "defaultValue": "File"
+      },
+      "Pressed": {
+        "name": "Pressed",
+        "type": "VARIANT",
+        "key": "Pressed",
+        "variantOptions": [
+          "on",
+          "off"
+        ],
+        "defaultValue": "off"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/A",
+      "Icon / Chevron-right",
+      ".File",
+      "Icon/close-lg"
+    ],
+    "instanceCount": 52,
+    "dependencies": [
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      },
+      {
+        "name": "Icon/chevron-left",
+        "external": false,
+        "nodeId": "128:12172",
+        "assetKey": "27a44e7222eafb64c8ecfdc80e280bdd792f3a0b"
+      },
+      {
+        "name": ".File",
+        "external": false,
+        "nodeId": "2850:10220",
+        "assetKey": "29b50700c388bd532287f745c1a921d4a2c13b25"
+      },
+      {
+        "name": "Icon/close-lg",
+        "external": false,
+        "nodeId": "5955:44796",
+        "assetKey": "da25d88a8f44f3a7cabf13480ecd5d757f124335"
+      }
+    ],
+    "assetKey": "ee4300f6008f53955f24875e113b5696b8b0b9ca"
+  },
+  {
+    "name": "状态",
+    "nodeId": "5170:6519",
+    "type": "COMPONENT_SET",
+    "pageId": "3:4",
+    "pageName": "✅ 卡片 Card",
+    "hasVariants": true,
+    "properties": {
+      "Property 1": {
+        "name": "Property 1",
+        "type": "VARIANT",
+        "key": "Property 1",
+        "variantOptions": [
+          "error",
+          "loading",
+          "refresh",
+          "Variant6",
+          "Variant5",
+          "Variant7",
+          "icon",
+          "Variant8"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "c7aeab5be5d7a82d7f37a50bb061ce130315ed88"
+  },
+  {
+    "name": "Tag",
+    "nodeId": "6350:4028",
+    "type": "COMPONENT_SET",
+    "pageId": "6:60",
+    "pageName": "✅ 标签 Tag",
+    "hasVariants": true,
+    "properties": {
+      "Slot": {
+        "name": "Slot",
+        "type": "SLOT",
+        "key": "Slot#6350:0",
+        "defaultValue": "-1:-1"
+      },
+      "Show Icon": {
+        "name": "Show Icon",
+        "type": "BOOLEAN",
+        "key": "Show Icon#7037:0",
+        "defaultValue": true
+      },
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "Badge",
+          "Default",
+          "Role",
+          "Bot"
+        ],
+        "defaultValue": "Default"
+      }
+    },
+    "childInstanceTags": [
+      "Icon"
+    ],
+    "instanceCount": 20,
+    "dependencies": [
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      }
+    ],
+    "assetKey": "e6837df26855b35e1097afc76d4b79e9530bc719"
+  },
+  {
+    "name": "Badge / Dot",
+    "nodeId": "105:3740",
+    "type": "COMPONENT",
+    "pageId": "6:61",
+    "pageName": "✅ 徽标 Badge",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 12,
+    "dependencies": [],
+    "assetKey": "8ce0aadbb79bc4c431c248abd820344631e9865d"
+  },
+  {
+    "name": "Badge / Number",
+    "nodeId": "105:3511",
+    "type": "COMPONENT",
+    "pageId": "6:61",
+    "pageName": "✅ 徽标 Badge",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [
+      ".Badge Number"
+    ],
+    "instanceCount": 13,
+    "dependencies": [
+      {
+        "name": ".Badge Number",
+        "external": false,
+        "nodeId": "337:237",
+        "assetKey": "ceac58dbe1ec76e9b359e836001dc18be9e27779"
+      }
+    ],
+    "assetKey": "07fd9bfbece25b149eef53165e9512cdeb0cde52"
+  },
+  {
+    "name": ".Badge Number",
+    "nodeId": "337:237",
+    "type": "COMPONENT_SET",
+    "pageId": "6:61",
+    "pageName": "✅ 徽标 Badge",
+    "hasVariants": true,
+    "properties": {
+      "Scale": {
+        "name": "Scale",
+        "type": "VARIANT",
+        "key": "Scale",
+        "variantOptions": [
+          "Default",
+          "Level 01",
+          "Level 03",
+          "Level 04",
+          "Level 05",
+          "Level 06",
+          "Level 07"
+        ],
+        "defaultValue": "Level 01"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "ceac58dbe1ec76e9b359e836001dc18be9e27779"
+  },
+  {
+    "name": "emptyPage",
+    "nodeId": "4928:8762",
+    "type": "COMPONENT",
+    "pageId": "3:6",
+    "pageName": "✅ 缺省页 EmptyPage",
+    "hasVariants": false,
+    "properties": {
+      "description": {
+        "name": "description",
+        "type": "BOOLEAN",
+        "key": "description#4928:2",
+        "defaultValue": true
+      },
+      "button": {
+        "name": "button",
+        "type": "BOOLEAN",
+        "key": "button#4928:3",
+        "defaultValue": true
+      }
+    },
+    "childInstanceTags": [
+      "emptyPage/illus",
+      "Button 按钮"
+    ],
+    "instanceCount": 9,
+    "dependencies": [
+      {
+        "name": "emptyPage/illus",
+        "external": false,
+        "nodeId": "6094:16751",
+        "assetKey": "7e9c49caf5d809273853d60252212ab788d978ca"
+      },
+      {
+        "name": "Button 按钮",
+        "external": false,
+        "nodeId": "1396:5016",
+        "assetKey": "6636b4bdb1c006a22f4ecbea623f518bea705089"
+      }
+    ],
+    "assetKey": "ede43fed6b204cba82ad2c44209e3438fd61214c"
+  },
+  {
+    "name": "emptyPage/illus",
+    "nodeId": "6094:16751",
+    "type": "COMPONENT_SET",
+    "pageId": "3:6",
+    "pageName": "✅ 缺省页 EmptyPage",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "networkError",
+          "noContent",
+          "placeholder"
+        ],
+        "defaultValue": "placeholder"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "7e9c49caf5d809273853d60252212ab788d978ca"
+  },
+  {
+    "name": ".imgViewer/footerAction",
+    "nodeId": "5414:20735",
+    "type": "COMPONENT",
+    "pageId": "6:62",
+    "pageName": "✅ 图片预览 ImageViewer",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [
+      ".imgViewer/buttonGroup"
+    ],
+    "instanceCount": 8,
+    "dependencies": [
+      {
+        "name": ".imgViewer/buttonGroup",
+        "external": false,
+        "nodeId": "5414:20542",
+        "assetKey": "2eb6aeb2d5437da164dc53bbf994096e4a6a56ab"
+      }
+    ],
+    "assetKey": "9b2e712adb86b8c6f8543e69f39bd1902b2b4af4"
+  },
+  {
+    "name": ".imgViewer/searchImgInfo",
+    "nodeId": "5414:20212",
+    "type": "COMPONENT",
+    "pageId": "6:62",
+    "pageName": "✅ 图片预览 ImageViewer",
+    "hasVariants": false,
+    "properties": {
+      "Ecommerce": {
+        "name": "Ecommerce",
+        "type": "BOOLEAN",
+        "key": "Ecommerce#5414:4",
+        "defaultValue": true
+      },
+      "comment": {
+        "name": "comment",
+        "type": "BOOLEAN",
+        "key": "comment#5414:5",
+        "defaultValue": true
+      }
+    },
+    "childInstanceTags": [
+      "Icon/Shopping",
+      "divider",
+      "Icon/chevron-right"
+    ],
+    "instanceCount": 9,
+    "dependencies": [
+      {
+        "name": "Icon/Shopping",
+        "external": false,
+        "nodeId": "5224:9557",
+        "assetKey": "57215f3ea8d5517b251a5ef3b1a37304a7887fd1"
+      },
+      {
+        "name": "divider",
+        "external": false,
+        "nodeId": "77:272",
+        "assetKey": "b93155d5f44be2215bd97155f5957a1a4e184969"
+      },
+      {
+        "name": "Icon/chevron-right",
+        "external": false,
+        "nodeId": "128:12171",
+        "assetKey": "d2378b77eda43005a9af25d024c62ce37b3c4b00"
+      }
+    ],
+    "assetKey": "4cce4780ce73f754c66b94f17f422dd29e052d7c"
+  },
+  {
+    "name": ".imgViewer/navBar",
+    "nodeId": "5414:13741",
+    "type": "COMPONENT_SET",
+    "pageId": "6:62",
+    "pageName": "✅ 图片预览 ImageViewer",
+    "hasVariants": true,
+    "properties": {
+      "indicator": {
+        "name": "indicator",
+        "type": "BOOLEAN",
+        "key": "indicator#5414:0",
+        "defaultValue": true
+      },
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "createImg",
+          "sendImg",
+          "searchImg"
+        ],
+        "defaultValue": "searchImg"
+      }
+    },
+    "childInstanceTags": [
+      ".StatusBar",
+      "Icon/close-sm",
+      "Icon/link",
+      "Icon/Download",
+      "Icon/share"
+    ],
+    "instanceCount": 16,
+    "dependencies": [
+      {
+        "name": ".StatusBar",
+        "external": false,
+        "nodeId": "82:944",
+        "assetKey": "4adf2778e636b811df3338a5c73340c6b4dc63cd"
+      },
+      {
+        "name": "Icon/close-sm",
+        "external": false,
+        "nodeId": "2813:4068",
+        "assetKey": "ec7ccb25ca0d48b39da86175462b3d859c86e127"
+      },
+      {
+        "name": "Icon/link",
+        "external": false,
+        "nodeId": "5337:17147",
+        "assetKey": "178af4adc9dd35f0bc1646964f082fe769a87211"
+      },
+      {
+        "name": "Icon/Download",
+        "external": false,
+        "nodeId": "5268:16893",
+        "assetKey": "e90b953ec7609715e73a43b13271d8dc29a9ccad"
+      },
+      {
+        "name": "Icon/share",
+        "external": false,
+        "nodeId": "3189:1478",
+        "assetKey": "d21ce3414ccd3ae06893d6a3080e1adf5a3aa3a2"
+      }
+    ],
+    "assetKey": "ae385f47c8c8d5cdd47664899feab48ffbea1e3a"
+  },
+  {
+    "name": ".imgViewer/buttonGroup",
+    "nodeId": "5414:20542",
+    "type": "COMPONENT_SET",
+    "pageId": "6:62",
+    "pageName": "✅ 图片预览 ImageViewer",
+    "hasVariants": true,
+    "properties": {
+      "num": {
+        "name": "num",
+        "type": "VARIANT",
+        "key": "num",
+        "variantOptions": [
+          "1",
+          "2",
+          "3"
+        ],
+        "defaultValue": "1"
+      }
+    },
+    "childInstanceTags": [
+      "Button",
+      "Button 1",
+      "Button 2",
+      "Button 3"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": "Button 按钮",
+        "external": false,
+        "nodeId": "1396:5016",
+        "assetKey": "6636b4bdb1c006a22f4ecbea623f518bea705089"
+      }
+    ],
+    "assetKey": "2eb6aeb2d5437da164dc53bbf994096e4a6a56ab"
+  },
+  {
+    "name": "imgViewer",
+    "nodeId": "8700:5777",
+    "type": "COMPONENT_SET",
+    "pageId": "6:62",
+    "pageName": "✅ 图片预览 ImageViewer",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "searchImg",
+          "createImg"
+        ],
+        "defaultValue": "searchImg"
+      }
+    },
+    "childInstanceTags": [
+      ".imgViewer/navBar",
+      ".imgViewer/searchImgInfo",
+      ".imgViewer/footerAction"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": ".imgViewer/navBar",
+        "external": false,
+        "nodeId": "5414:13741",
+        "assetKey": "ae385f47c8c8d5cdd47664899feab48ffbea1e3a"
+      },
+      {
+        "name": ".imgViewer/searchImgInfo",
+        "external": false,
+        "nodeId": "5414:20212",
+        "assetKey": "4cce4780ce73f754c66b94f17f422dd29e052d7c"
+      },
+      {
+        "name": ".imgViewer/footerAction",
+        "external": false,
+        "nodeId": "5414:20735",
+        "assetKey": "9b2e712adb86b8c6f8543e69f39bd1902b2b4af4"
+      }
+    ],
+    "assetKey": "38b0a04808edda0f9f1eeb871a74f3e57c826cae"
+  },
+  {
+    "name": ".videoViewer/footerAction",
+    "nodeId": "6583:3503",
+    "type": "COMPONENT",
+    "pageId": "6:63",
+    "pageName": "✅ 视频播放器 VideoPlayer",
+    "hasVariants": false,
+    "properties": {
+      "buttonGroup": {
+        "name": "buttonGroup",
+        "type": "BOOLEAN",
+        "key": "buttonGroup#6589:0",
+        "defaultValue": true
+      }
+    },
+    "childInstanceTags": [
+      ".videoViewer/footerAction/indicator",
+      "Button 1",
+      "Button 2"
+    ],
+    "instanceCount": 8,
+    "dependencies": [
+      {
+        "name": ".videoViewer/footerAction/indicator",
+        "external": false,
+        "nodeId": "8700:5804",
+        "assetKey": "408b4d21807f3854c17663eb10576328981aaccf"
+      },
+      {
+        "name": "Button 按钮",
+        "external": false,
+        "nodeId": "1396:5016",
+        "assetKey": "6636b4bdb1c006a22f4ecbea623f518bea705089"
+      }
+    ],
+    "assetKey": "4b54b4b95f16cb308dbaae526cbf9fed4c6b5193"
+  },
+  {
+    "name": ".videoViewer/navBar",
+    "nodeId": "6583:1681",
+    "type": "COMPONENT_SET",
+    "pageId": "6:63",
+    "pageName": "✅ 视频播放器 VideoPlayer",
+    "hasVariants": true,
+    "properties": {
+      "indicator": {
+        "name": "indicator",
+        "type": "BOOLEAN",
+        "key": "indicator#5414:0",
+        "defaultValue": true
+      },
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "createVideo",
+          "sendVideo"
+        ],
+        "defaultValue": "sendVideo"
+      }
+    },
+    "childInstanceTags": [
+      ".StatusBar",
+      "Icon/close-sm",
+      "Icon/Download",
+      "Icon/share"
+    ],
+    "instanceCount": 12,
+    "dependencies": [
+      {
+        "name": ".StatusBar",
+        "external": false,
+        "nodeId": "82:944",
+        "assetKey": "4adf2778e636b811df3338a5c73340c6b4dc63cd"
+      },
+      {
+        "name": "Icon/close-sm",
+        "external": false,
+        "nodeId": "2813:4068",
+        "assetKey": "ec7ccb25ca0d48b39da86175462b3d859c86e127"
+      },
+      {
+        "name": "Icon/Download",
+        "external": false,
+        "nodeId": "5268:16893",
+        "assetKey": "e90b953ec7609715e73a43b13271d8dc29a9ccad"
+      },
+      {
+        "name": "Icon/share",
+        "external": false,
+        "nodeId": "3189:1478",
+        "assetKey": "d21ce3414ccd3ae06893d6a3080e1adf5a3aa3a2"
+      }
+    ],
+    "assetKey": "328b2c2db81f7afc78e80d1f8e789dae5f3a017e"
+  },
+  {
+    "name": ".videoViewer/footerAction/indicator",
+    "nodeId": "8700:5804",
+    "type": "COMPONENT_SET",
+    "pageId": "6:63",
+    "pageName": "✅ 视频播放器 VideoPlayer",
+    "hasVariants": true,
+    "properties": {
+      "status": {
+        "name": "status",
+        "type": "VARIANT",
+        "key": "status",
+        "variantOptions": [
+          "pause",
+          "play",
+          "drag"
+        ],
+        "defaultValue": "pause"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "408b4d21807f3854c17663eb10576328981aaccf"
+  },
+  {
+    "name": "videoViewer",
+    "nodeId": "8720:3833",
+    "type": "COMPONENT_SET",
+    "pageId": "6:63",
+    "pageName": "✅ 视频播放器 VideoPlayer",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "sendVideo",
+          "createVideo"
+        ],
+        "defaultValue": "sendVideo"
+      }
+    },
+    "childInstanceTags": [
+      ".videoViewer/navBar",
+      ".videoViewer/footerAction"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": ".videoViewer/navBar",
+        "external": false,
+        "nodeId": "6583:1681",
+        "assetKey": "328b2c2db81f7afc78e80d1f8e789dae5f3a017e"
+      },
+      {
+        "name": ".videoViewer/footerAction",
+        "external": false,
+        "nodeId": "6583:3503",
+        "assetKey": "4b54b4b95f16cb308dbaae526cbf9fed4c6b5193"
+      }
+    ],
+    "assetKey": "2975544e243e54a9ed27c881c9dfce1867fd710e"
+  },
+  {
+    "name": "弹窗组件",
+    "nodeId": "434:5381",
+    "type": "COMPONENT",
+    "pageId": "6:66",
+    "pageName": "✅ 弹窗 Alert",
+    "hasVariants": false,
+    "properties": {
+      "pic&iconSlot": {
+        "name": "pic&iconSlot",
+        "type": "SLOT",
+        "key": "pic&iconSlot#434:3",
+        "defaultValue": "-1:-1"
+      },
+      "pic&iconSwitch": {
+        "name": "pic&iconSwitch",
+        "type": "BOOLEAN",
+        "key": "pic&iconSwitch#434:4",
+        "defaultValue": false
+      },
+      "titleSwitch": {
+        "name": "titleSwitch",
+        "type": "BOOLEAN",
+        "key": "titleSwitch#434:5",
+        "defaultValue": true
+      },
+      "bodySlot": {
+        "name": "bodySlot",
+        "type": "SLOT",
+        "key": "bodySlot#434:6",
+        "defaultValue": "-1:-1"
+      },
+      "bodySwitch": {
+        "name": "bodySwitch",
+        "type": "BOOLEAN",
+        "key": "bodySwitch#434:13",
+        "defaultValue": true
+      }
+    },
+    "childInstanceTags": [
+      "body",
+      "button"
+    ],
+    "instanceCount": 44,
+    "dependencies": [
+      {
+        "name": ".dialog/body",
+        "external": false,
+        "nodeId": "434:6365",
+        "assetKey": "060643940c7875a008837379e8fcdb33ff83f9bd"
+      },
+      {
+        "name": ".buttonGroup",
+        "external": false,
+        "nodeId": "443:2123",
+        "assetKey": "6765219b7b7f7f20f37c75ec8677a45444ac994b"
+      }
+    ],
+    "assetKey": "e4d8ba9197b9af3d2b875c37b04440cead6cceb7"
+  },
+  {
+    "name": ".dialog/body",
+    "nodeId": "434:6365",
+    "type": "COMPONENT_SET",
+    "pageId": "6:66",
+    "pageName": "✅ 弹窗 Alert",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "singleText",
+          "multiText",
+          "overflowText",
+          "leftCheckbox",
+          "middleCheckbox"
+        ],
+        "defaultValue": "singleText"
+      }
+    },
+    "childInstanceTags": [
+      "Radio & CheckBox"
+    ],
+    "instanceCount": 1,
+    "dependencies": [
+      {
+        "name": "Radio & CheckBox",
+        "external": false,
+        "nodeId": "559:4217",
+        "assetKey": "01309029307e33b8969eb347b535fdacf8b47c3d"
+      }
+    ],
+    "assetKey": "060643940c7875a008837379e8fcdb33ff83f9bd"
+  },
+  {
+    "name": ".buttonGroup",
+    "nodeId": "443:2123",
+    "type": "COMPONENT_SET",
+    "pageId": "6:66",
+    "pageName": "✅ 弹窗 Alert",
+    "hasVariants": true,
+    "properties": {
+      "buttonGroup": {
+        "name": "buttonGroup",
+        "type": "SLOT",
+        "key": "buttonGroup#10021:0",
+        "defaultValue": "-1:-1"
+      },
+      "num": {
+        "name": "num",
+        "type": "VARIANT",
+        "key": "num",
+        "variantOptions": [
+          "2",
+          "1",
+          "multi"
+        ],
+        "defaultValue": "2"
+      }
+    },
+    "childInstanceTags": [
+      "leftBtn",
+      "rightBtn",
+      "btn"
+    ],
+    "instanceCount": 1,
+    "dependencies": [
+      {
+        "name": "Button 按钮",
+        "external": false,
+        "nodeId": "1396:5016",
+        "assetKey": "6636b4bdb1c006a22f4ecbea623f518bea705089"
+      }
+    ],
+    "assetKey": "6765219b7b7f7f20f37c75ec8677a45444ac994b"
+  },
+  {
+    "name": "bottomSheet",
+    "nodeId": "2866:50905",
+    "type": "COMPONENT",
+    "pageId": "6:68",
+    "pageName": "✅ 浮层面板 BottomSheet",
+    "hasVariants": false,
+    "properties": {
+      "handle": {
+        "name": "handle",
+        "type": "BOOLEAN",
+        "key": "handle#2866:0",
+        "defaultValue": true
+      },
+      "content": {
+        "name": "content",
+        "type": "SLOT",
+        "key": "content#2866:1",
+        "defaultValue": "-1:-1"
+      },
+      "navBar": {
+        "name": "navBar",
+        "type": "BOOLEAN",
+        "key": "navBar#3149:21",
+        "defaultValue": true
+      },
+      "buttonGroup": {
+        "name": "buttonGroup",
+        "type": "BOOLEAN",
+        "key": "buttonGroup#3149:22",
+        "defaultValue": true
+      }
+    },
+    "childInstanceTags": [
+      ".navbar",
+      "_figmaIcon",
+      ".buttonGroup",
+      "Home Indicator"
+    ],
+    "instanceCount": 21,
+    "dependencies": [
+      {
+        "name": ".navbar",
+        "external": false,
+        "nodeId": "3149:22513",
+        "assetKey": "55187ac48ad5a423be0d82bff12e4ffd50763a2c"
+      },
+      {
+        "name": "_figmaIcon",
+        "external": true,
+        "assetKey": "1d4fe9c61461953ec0902847e2e75bc27245e361"
+      },
+      {
+        "name": ".buttonGroup",
+        "external": false,
+        "nodeId": "3149:24142",
+        "assetKey": "7a2567e5c0e68752043568d3cc6bba179859d405"
+      },
+      {
+        "name": "Home Indicator",
+        "external": true,
+        "assetKey": "7aafe068eb8261b9aa743403f83769ae78800a38"
+      }
+    ],
+    "assetKey": "2ea33c7a07db708f2b9e66dd61f753ebddb5d9a1"
+  },
+  {
+    "name": ".navbar",
+    "nodeId": "3149:22513",
+    "type": "COMPONENT_SET",
+    "pageId": "6:68",
+    "pageName": "✅ 浮层面板 BottomSheet",
+    "hasVariants": true,
+    "properties": {
+      "leftIcon": {
+        "name": "leftIcon",
+        "type": "BOOLEAN",
+        "key": "leftIcon#3149:0",
+        "defaultValue": true
+      },
+      "rightIcon": {
+        "name": "rightIcon",
+        "type": "BOOLEAN",
+        "key": "rightIcon#3149:4",
+        "defaultValue": true
+      },
+      "description": {
+        "name": "description",
+        "type": "BOOLEAN",
+        "key": "description#3149:8",
+        "defaultValue": true
+      },
+      "divider": {
+        "name": "divider",
+        "type": "BOOLEAN",
+        "key": "divider#3149:12",
+        "defaultValue": true
+      },
+      "content": {
+        "name": "content",
+        "type": "BOOLEAN",
+        "key": "content#3149:17",
+        "defaultValue": true
+      },
+      "leftSlot": {
+        "name": "leftSlot",
+        "type": "SLOT",
+        "key": "leftSlot#3747:0",
+        "defaultValue": "-1:-1"
+      },
+      "rightSlot": {
+        "name": "rightSlot",
+        "type": "SLOT",
+        "key": "rightSlot#3747:4",
+        "defaultValue": "-1:-1"
+      },
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "default",
+          "tabCard"
+        ],
+        "defaultValue": "default"
+      },
+      "position": {
+        "name": "position",
+        "type": "VARIANT",
+        "key": "position",
+        "variantOptions": [
+          "left",
+          "middle"
+        ],
+        "defaultValue": "left"
+      }
+    },
+    "childInstanceTags": [
+      "leftIcon",
+      "rightIcon",
+      "divider",
+      "leftBtn",
+      "rightBtn"
+    ],
+    "instanceCount": 16,
+    "dependencies": [
+      {
+        "name": ".navBar / Icon",
+        "external": false,
+        "nodeId": "3216:33636",
+        "assetKey": "313b00559b985f7a46ce91c0c7f662e1f8a5d951"
+      },
+      {
+        "name": "divider",
+        "external": false,
+        "nodeId": "77:272",
+        "assetKey": "b93155d5f44be2215bd97155f5957a1a4e184969"
+      }
+    ],
+    "assetKey": "55187ac48ad5a423be0d82bff12e4ffd50763a2c"
+  },
+  {
+    "name": ".buttonGroup",
+    "nodeId": "3149:24142",
+    "type": "COMPONENT_SET",
+    "pageId": "6:68",
+    "pageName": "✅ 浮层面板 BottomSheet",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "1Btn",
+          "2BtnHorizantal",
+          "2BtnVertical"
+        ],
+        "defaultValue": "2BtnHorizantal"
+      }
+    },
+    "childInstanceTags": [
+      "leftBtn",
+      "rightBtn",
+      "btn",
+      "Button 按钮"
+    ],
+    "instanceCount": 16,
+    "dependencies": [
+      {
+        "name": "Button 按钮",
+        "external": false,
+        "nodeId": "1396:5016",
+        "assetKey": "6636b4bdb1c006a22f4ecbea623f518bea705089"
+      }
+    ],
+    "assetKey": "7a2567e5c0e68752043568d3cc6bba179859d405"
+  },
+  {
+    "name": ".navBar / Icon",
+    "nodeId": "3216:33636",
+    "type": "COMPONENT_SET",
+    "pageId": "6:68",
+    "pageName": "✅ 浮层面板 BottomSheet",
+    "hasVariants": true,
+    "properties": {
+      "Left Slot": {
+        "name": "Left Slot",
+        "type": "SLOT",
+        "key": "Left Slot#1580:63",
+        "defaultValue": "-1:-1"
+      },
+      "Right Slot": {
+        "name": "Right Slot",
+        "type": "SLOT",
+        "key": "Right Slot#1580:69",
+        "defaultValue": "-1:-1"
+      },
+      "Show Right icon": {
+        "name": "Show Right icon",
+        "type": "BOOLEAN",
+        "key": "Show Right icon#1580:75",
+        "defaultValue": false
+      },
+      "Show Left icon": {
+        "name": "Show Left icon",
+        "type": "BOOLEAN",
+        "key": "Show Left icon#1580:81",
+        "defaultValue": true
+      },
+      "bg": {
+        "name": "bg",
+        "type": "VARIANT",
+        "key": "bg",
+        "variantOptions": [
+          "on",
+          "off"
+        ],
+        "defaultValue": "on"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/A"
+    ],
+    "instanceCount": 1,
+    "dependencies": [
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      }
+    ],
+    "assetKey": "313b00559b985f7a46ce91c0c7f662e1f8a5d951"
+  },
+  {
+    "name": "ActionSheet",
+    "nodeId": "3312:37197",
+    "type": "COMPONENT",
+    "pageId": "6:67",
+    "pageName": "✅ 动作面板 ActionSheet",
+    "hasVariants": false,
+    "properties": {
+      "Show desc": {
+        "name": "Show desc",
+        "type": "BOOLEAN",
+        "key": "Show desc#3312:30",
+        "defaultValue": true
+      },
+      "item": {
+        "name": "item",
+        "type": "SLOT",
+        "key": "item#3312:31",
+        "defaultValue": "-1:-1"
+      },
+      "desc": {
+        "name": "desc",
+        "type": "SLOT",
+        "key": "desc#3357:0",
+        "defaultValue": "-1:-1"
+      }
+    },
+    "childInstanceTags": [
+      ".Actionsheet/item",
+      "Button 按钮"
+    ],
+    "instanceCount": 19,
+    "dependencies": [
+      {
+        "name": ".Actionsheet/item",
+        "external": false,
+        "nodeId": "2970:6179",
+        "assetKey": "1e6c8000a13046c0bdce01c3ae42953b8056cafd"
+      },
+      {
+        "name": "Button 按钮",
+        "external": false,
+        "nodeId": "1396:5016",
+        "assetKey": "6636b4bdb1c006a22f4ecbea623f518bea705089"
+      }
+    ],
+    "assetKey": "ef65b9869be3ffb2eab8c12ea9ab92f9ba6bacc2"
+  },
+  {
+    "name": ".Actionsheet/item",
+    "nodeId": "2970:6179",
+    "type": "COMPONENT_SET",
+    "pageId": "6:67",
+    "pageName": "✅ 动作面板 ActionSheet",
+    "hasVariants": true,
+    "properties": {
+      "icon": {
+        "name": "icon",
+        "type": "SLOT",
+        "key": "icon#2970:56",
+        "defaultValue": "-1:-1"
+      },
+      "Show icon": {
+        "name": "Show icon",
+        "type": "BOOLEAN",
+        "key": "Show icon#3312:17",
+        "defaultValue": true
+      },
+      "icon2": {
+        "name": "icon2",
+        "type": "SLOT",
+        "key": "icon2#3357:1",
+        "defaultValue": "-1:-1"
+      },
+      "icon3": {
+        "name": "icon3",
+        "type": "SLOT",
+        "key": "icon3#3357:5",
+        "defaultValue": "-1:-1"
+      },
+      "state": {
+        "name": "state",
+        "type": "VARIANT",
+        "key": "state",
+        "variantOptions": [
+          "Default",
+          "Disable",
+          "Pressed"
+        ],
+        "defaultValue": "Default"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/A"
+    ],
+    "instanceCount": 0,
+    "dependencies": [
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      }
+    ],
+    "assetKey": "1e6c8000a13046c0bdce01c3ae42953b8056cafd"
+  },
+  {
+    "name": ".indicator",
+    "nodeId": "3149:24851",
+    "type": "COMPONENT_SET",
+    "pageId": "3149:29087",
+    "pageName": "✅ 功能上新介绍 FeatureSheet",
+    "hasVariants": true,
+    "properties": {
+      "focus": {
+        "name": "focus",
+        "type": "VARIANT",
+        "key": "focus",
+        "variantOptions": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "defaultValue": "1"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 2,
+    "dependencies": [],
+    "assetKey": "c8e0c090841402be7396016dee64a95f987496b1"
+  },
+  {
+    "name": ".text",
+    "nodeId": "3149:26973",
+    "type": "COMPONENT_SET",
+    "pageId": "3149:29087",
+    "pageName": "✅ 功能上新介绍 FeatureSheet",
+    "hasVariants": true,
+    "properties": {
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "singleLine",
+          "multiLine"
+        ],
+        "defaultValue": "singleLine"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 2,
+    "dependencies": [],
+    "assetKey": "e7f30ad2c18b6ef2b5d1e77fcfdd2b25dac338d3"
+  },
+  {
+    "name": "FeatureSheet",
+    "nodeId": "3149:27036",
+    "type": "COMPONENT",
+    "pageId": "3149:29087",
+    "pageName": "✅ 功能上新介绍 FeatureSheet",
+    "hasVariants": false,
+    "properties": {
+      "indicator": {
+        "name": "indicator",
+        "type": "BOOLEAN",
+        "key": "indicator#3677:51",
+        "defaultValue": true
+      },
+      "pic": {
+        "name": "pic",
+        "type": "SLOT",
+        "key": "pic#8904:0",
+        "defaultValue": "-1:-1"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/close-sm",
+      ".indicator",
+      ".text",
+      ".buttonGroup"
+    ],
+    "instanceCount": 24,
+    "dependencies": [
+      {
+        "name": "Icon/close-sm",
+        "external": false,
+        "nodeId": "2813:4068",
+        "assetKey": "ec7ccb25ca0d48b39da86175462b3d859c86e127"
+      },
+      {
+        "name": ".indicator",
+        "external": false,
+        "nodeId": "3149:24851",
+        "assetKey": "c8e0c090841402be7396016dee64a95f987496b1"
+      },
+      {
+        "name": ".text",
+        "external": false,
+        "nodeId": "3149:26973",
+        "assetKey": "e7f30ad2c18b6ef2b5d1e77fcfdd2b25dac338d3"
+      },
+      {
+        "name": ".buttonGroup",
+        "external": false,
+        "nodeId": "3677:33977",
+        "assetKey": "55e56e9be471ac76dc6742fb9e98f597ce1b811a"
+      }
+    ],
+    "assetKey": "ac6a64adefba916de83c4b18d6aef2533bf831d8"
+  },
+  {
+    "name": ".buttonGroup",
+    "nodeId": "3677:33977",
+    "type": "COMPONENT_SET",
+    "pageId": "3149:29087",
+    "pageName": "✅ 功能上新介绍 FeatureSheet",
+    "hasVariants": true,
+    "properties": {
+      "num": {
+        "name": "num",
+        "type": "VARIANT",
+        "key": "num",
+        "variantOptions": [
+          "2",
+          "1"
+        ],
+        "defaultValue": "2"
+      }
+    },
+    "childInstanceTags": [
+      "leftBtn",
+      "rightBtn",
+      "btn"
+    ],
+    "instanceCount": 1,
+    "dependencies": [
+      {
+        "name": "Button 按钮",
+        "external": false,
+        "nodeId": "1396:5016",
+        "assetKey": "6636b4bdb1c006a22f4ecbea623f518bea705089"
+      }
+    ],
+    "assetKey": "55e56e9be471ac76dc6742fb9e98f597ce1b811a"
+  },
+  {
+    "name": ".shareSheet/item",
+    "nodeId": "3436:37680",
+    "type": "COMPONENT",
+    "pageId": "1613:2566",
+    "pageName": "✅ 分享面板 ShareSheet",
+    "hasVariants": false,
+    "properties": {
+      "Icon Slot": {
+        "name": "Icon Slot",
+        "type": "SLOT",
+        "key": "Icon Slot#3436:4",
+        "defaultValue": "-1:-1"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "f4af7b850065892576189b09586a230b11355236"
+  },
+  {
+    "name": "shareSheet",
+    "nodeId": "3995:29183",
+    "type": "COMPONENT_SET",
+    "pageId": "1613:2566",
+    "pageName": "✅ 分享面板 ShareSheet",
+    "hasVariants": true,
+    "properties": {
+      "ShareSheet": {
+        "name": "ShareSheet",
+        "type": "VARIANT",
+        "key": "ShareSheet",
+        "variantOptions": [
+          "Dialogue Share",
+          "File Share"
+        ],
+        "defaultValue": "Dialogue Share"
+      }
+    },
+    "childInstanceTags": [
+      "bottomSheet"
+    ],
+    "instanceCount": 21,
+    "dependencies": [
+      {
+        "name": "bottomSheet",
+        "external": false,
+        "nodeId": "2866:50905",
+        "assetKey": "2ea33c7a07db708f2b9e66dd61f753ebddb5d9a1"
+      }
+    ],
+    "assetKey": "797c379086f04dbc319b6d23da41f7e4867d91ad"
+  },
+  {
+    "name": "Toast",
+    "nodeId": "3499:4402",
+    "type": "COMPONENT_SET",
+    "pageId": "6:69",
+    "pageName": "✅ 提示 Toast",
+    "hasVariants": true,
+    "properties": {
+      "ActionButton": {
+        "name": "ActionButton",
+        "type": "BOOLEAN",
+        "key": "ActionButton#3499:9",
+        "defaultValue": true
+      },
+      "Icon": {
+        "name": "Icon",
+        "type": "BOOLEAN",
+        "key": "Icon#3499:10",
+        "defaultValue": true
+      },
+      "Icon Slot": {
+        "name": "Icon Slot",
+        "type": "SLOT",
+        "key": "Icon Slot#3499:13",
+        "defaultValue": "-1:-1"
+      },
+      "ArrowIcon": {
+        "name": "ArrowIcon",
+        "type": "BOOLEAN",
+        "key": "ArrowIcon#9048:0",
+        "defaultValue": false
+      },
+      "Type": {
+        "name": "Type",
+        "type": "VARIANT",
+        "key": "Type",
+        "variantOptions": [
+          "Default",
+          "Vertical"
+        ],
+        "defaultValue": "Default"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/A",
+      "Icon/chevron-right"
+    ],
+    "instanceCount": 28,
+    "dependencies": [
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      },
+      {
+        "name": "Icon/chevron-right",
+        "external": false,
+        "nodeId": "128:12171",
+        "assetKey": "d2378b77eda43005a9af25d024c62ce37b3c4b00"
+      }
+    ],
+    "assetKey": "04910d3eff13198a22a64ca10abb818fc64452f9"
+  },
+  {
+    "name": "tooltip",
+    "nodeId": "3616:10908",
+    "type": "COMPONENT_SET",
+    "pageId": "6:70",
+    "pageName": "✅ 气泡 Tooltip",
+    "hasVariants": true,
+    "properties": {
+      "icon": {
+        "name": "icon",
+        "type": "SLOT",
+        "key": "icon#3905:1",
+        "defaultValue": "-1:-1"
+      },
+      "showIcon": {
+        "name": "showIcon",
+        "type": "BOOLEAN",
+        "key": "showIcon#3905:4",
+        "defaultValue": true
+      },
+      "showClose": {
+        "name": "showClose",
+        "type": "BOOLEAN",
+        "key": "showClose#3905:7",
+        "defaultValue": false
+      },
+      "type": {
+        "name": "type",
+        "type": "VARIANT",
+        "key": "type",
+        "variantOptions": [
+          "normal",
+          "mix"
+        ],
+        "defaultValue": "normal"
+      },
+      "direction": {
+        "name": "direction",
+        "type": "VARIANT",
+        "key": "direction",
+        "variantOptions": [
+          "up",
+          "bottom"
+        ],
+        "defaultValue": "bottom"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/A",
+      "Icon/close-sm"
+    ],
+    "instanceCount": 33,
+    "dependencies": [
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      },
+      {
+        "name": "Icon/close-sm",
+        "external": false,
+        "nodeId": "2813:4068",
+        "assetKey": "ec7ccb25ca0d48b39da86175462b3d859c86e127"
+      }
+    ],
+    "assetKey": "df8c660261c9d6b0011326078d85056b6fb517ba"
+  },
+  {
+    "name": "Notification",
+    "nodeId": "6743:12139",
+    "type": "COMPONENT_SET",
+    "pageId": "6:72",
+    "pageName": "✅ 通知 Notification",
+    "hasVariants": true,
+    "properties": {
+      "IconSlot": {
+        "name": "IconSlot",
+        "type": "SLOT",
+        "key": "IconSlot#6743:0",
+        "defaultValue": "-1:-1"
+      },
+      "Button": {
+        "name": "Button",
+        "type": "BOOLEAN",
+        "key": "Button#6743:1",
+        "defaultValue": true
+      },
+      "Close": {
+        "name": "Close",
+        "type": "BOOLEAN",
+        "key": "Close#6743:2",
+        "defaultValue": true
+      },
+      "Subtitle": {
+        "name": "Subtitle",
+        "type": "BOOLEAN",
+        "key": "Subtitle#6743:3",
+        "defaultValue": true
+      },
+      "Icon": {
+        "name": "Icon",
+        "type": "BOOLEAN",
+        "key": "Icon#6743:4",
+        "defaultValue": true
+      },
+      "Entry": {
+        "name": "Entry",
+        "type": "BOOLEAN",
+        "key": "Entry#6743:5",
+        "defaultValue": false
+      },
+      "Notification": {
+        "name": "Notification",
+        "type": "VARIANT",
+        "key": "Notification",
+        "variantOptions": [
+          "pic",
+          "icon"
+        ],
+        "defaultValue": "icon"
+      }
+    },
+    "childInstanceTags": [
+      "Icon/A",
+      "close",
+      "Group 2119902898",
+      "Frame 2119904429"
+    ],
+    "instanceCount": 19,
+    "dependencies": [
+      {
+        "name": "Icon/A",
+        "external": false,
+        "nodeId": "64:2291",
+        "assetKey": "348689bf07673f537c16f99264b5afafc82c12ae"
+      },
+      {
+        "name": "Frame 2119904429",
+        "external": true,
+        "assetKey": "70a8f1ecf31a4c39200037b6102ca8e1ddf3b9f6"
+      },
+      {
+        "name": "Group 1312318358",
+        "external": true,
+        "assetKey": "f4fc81231b56c6802dfb31370f55a4f8d604b761"
+      }
+    ],
+    "assetKey": "efcc00fac97ea53d180bfc72a93a6233acdf2591"
+  },
+  {
+    "name": "Snackbar",
+    "nodeId": "3499:4058",
+    "type": "COMPONENT",
+    "pageId": "9048:4980",
+    "pageName": "✅ 底部操作提示 Snackbar",
+    "hasVariants": false,
+    "properties": {
+      "ActionButton": {
+        "name": "ActionButton",
+        "type": "BOOLEAN",
+        "key": "ActionButton#3499:1",
+        "defaultValue": true
+      },
+      "Icon": {
+        "name": "Icon",
+        "type": "BOOLEAN",
+        "key": "Icon#3499:2",
+        "defaultValue": true
+      }
+    },
+    "childInstanceTags": [
+      "Icon/State"
+    ],
+    "instanceCount": 17,
+    "dependencies": [
+      {
+        "name": "Icon/State",
+        "external": true,
+        "assetKey": "793a1d3f967d2a21c6013e4765111d20d96a6aa4"
+      }
+    ],
+    "assetKey": "062c74dbe896cfdb0da894ab93fc1b1a82ac3a93"
+  },
+  {
+    "name": "tip",
+    "nodeId": "6229:10808",
+    "type": "COMPONENT_SET",
+    "pageId": "6:71",
+    "pageName": "✅ 引导 Guide",
+    "hasVariants": true,
+    "properties": {
+      "line": {
+        "name": "line",
+        "type": "VARIANT",
+        "key": "line",
+        "variantOptions": [
+          "single",
+          "double"
+        ],
+        "defaultValue": "double"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 0,
+    "dependencies": [],
+    "assetKey": "e7fb25b4c9199a96d9699dd1e8e3febf7c69ec6c"
+  },
+  {
+    "name": "Guide",
+    "nodeId": "6229:10822",
+    "type": "COMPONENT_SET",
+    "pageId": "6:71",
+    "pageName": "✅ 引导 Guide",
+    "hasVariants": true,
+    "properties": {
+      "direction": {
+        "name": "direction",
+        "type": "VARIANT",
+        "key": "direction",
+        "variantOptions": [
+          "up",
+          "bottom"
+        ],
+        "defaultValue": "up"
+      }
+    },
+    "childInstanceTags": [
+      "tip"
+    ],
+    "instanceCount": 20,
+    "dependencies": [
+      {
+        "name": "tip",
+        "external": false,
+        "nodeId": "6229:10808",
+        "assetKey": "e7fb25b4c9199a96d9699dd1e8e3febf7c69ec6c"
+      }
+    ],
+    "assetKey": "f55622f41dde3788972eef0e349426dc8243606c"
+  },
+  {
+    "name": "蓝色",
+    "nodeId": "8262:6063",
+    "type": "COMPONENT_SET",
+    "pageId": "6:73",
+    "pageName": "✅ 加载 Loading",
+    "hasVariants": true,
+    "properties": {
+      "Property 1": {
+        "name": "Property 1",
+        "type": "VARIANT",
+        "key": "Property 1",
+        "variantOptions": [
+          "1",
+          "2"
+        ],
+        "defaultValue": "1"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 2,
+    "dependencies": [],
+    "assetKey": "b9b3ed85c4f92fe6bef12553966ef102e15cf8e8"
+  },
+  {
+    "name": "output",
+    "nodeId": "8326:17561",
+    "type": "COMPONENT_SET",
+    "pageId": "6:73",
+    "pageName": "✅ 加载 Loading",
+    "hasVariants": true,
+    "properties": {
+      "Property 1": {
+        "name": "Property 1",
+        "type": "VARIANT",
+        "key": "Property 1",
+        "variantOptions": [
+          "loading-moving",
+          "loading-silence"
+        ],
+        "defaultValue": "loading-silence"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 3,
+    "dependencies": [],
+    "assetKey": "e6cef9c51c3309b1ee29dba814faf3ba0a18c84d"
+  },
+  {
+    "name": "Loading",
+    "nodeId": "8775:14740",
+    "type": "COMPONENT",
+    "pageId": "6:73",
+    "pageName": "✅ 加载 Loading",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 3,
+    "dependencies": [],
+    "assetKey": "b95f23fb1c7e61a4f06ea39e64964a44821c1549"
+  },
+  {
+    "name": "ipad 模板",
+    "nodeId": "8535:12469",
+    "type": "COMPONENT_SET",
+    "pageId": "7663:22806",
+    "pageName": "✅ iPad端",
+    "hasVariants": true,
+    "properties": {
+      "展示方式": {
+        "name": "展示方式",
+        "type": "VARIANT",
+        "key": "展示方式",
+        "variantOptions": [
+          "横屏",
+          "竖屏"
+        ],
+        "defaultValue": "竖屏"
+      }
+    },
+    "childInstanceTags": [],
+    "instanceCount": 36,
+    "dependencies": [],
+    "assetKey": "c227b86746629e214613dfbd9b928090b58fb143"
+  },
+  {
+    "name": "_Window Resize",
+    "nodeId": "8627:4006",
+    "type": "COMPONENT",
+    "pageId": "7663:22806",
+    "pageName": "✅ iPad端",
+    "hasVariants": false,
+    "properties": {},
+    "childInstanceTags": [],
+    "instanceCount": 2,
+    "dependencies": [],
+    "assetKey": "71f5eb99dd81a7e04638df631d78e62a0bfecaf7"
+  }
+]

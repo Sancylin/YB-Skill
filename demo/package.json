@@ -1,0 +1,32 @@
+{
+  "name": "demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "generate": "node scripts/generate-assets.mjs",
+    "export:figma": "node scripts/export-figma-assets.mjs",
+    "typecheck": "tsc -b",
+    "build": "npm run typecheck && vite build",
+    "code-connect:parse": "figma connect parse --config figma.config.json",
+    "code-connect:compile": "figma connect parse --config figma.config.json --label \"React Demo\" --outFile code-connect-docs.json --exit-on-unreadable-files",
+    "test:strict-render": "node scripts/test-strict-render.mjs",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@figma/code-connect": "^2.0.0",
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.1.0",
+    "oxlint": "^1.79.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.2"
+  }
+}

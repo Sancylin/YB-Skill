@@ -1,0 +1,8 @@
+{
+  "codeConnect": {
+    "include": ["src/figma/**/*.figma.ts"],
+    "exclude": ["node_modules/**", "dist/**"],
+    "label": "React Demo",
+    "language": "jsx"
+  }
+}

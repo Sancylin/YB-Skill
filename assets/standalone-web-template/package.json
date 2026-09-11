@@ -1,0 +1,24 @@
+{
+  "name": "standalone-web-example-page",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "build": "npm run typecheck && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "React版本",
+    "react-dom": "ReactDOM版本"
+  },
+  "devDependencies": {
+    "@types/node": "Node类型版本",
+    "@types/react": "React类型版本",
+    "@types/react-dom": "ReactDOM类型版本",
+    "@vitejs/plugin-react": "React插件版本",
+    "typescript": "TypeScript版本",
+    "vite": "Vite版本"
+  }
+}

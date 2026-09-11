@@ -1,0 +1,582 @@
+[
+  {
+    "nodeId": "19817:55170",
+    "name": "Icon/Industry Brief"
+  },
+  {
+    "nodeId": "19817:55171",
+    "name": "Icon/AI Create"
+  },
+  {
+    "nodeId": "19817:55172",
+    "name": "Icon/AI Exam"
+  },
+  {
+    "nodeId": "19817:55173",
+    "name": "Icon/Disconnect"
+  },
+  {
+    "nodeId": "19817:55174",
+    "name": "Icon/AI Video"
+  },
+  {
+    "nodeId": "19817:55175",
+    "name": "Icon/Smart Retouch"
+  },
+  {
+    "nodeId": "19817:55176",
+    "name": "Icon/Add File"
+  },
+  {
+    "nodeId": "19817:55177",
+    "name": "Icon/Delete"
+  },
+  {
+    "nodeId": "19817:55178",
+    "name": "Icon/AI Recorder"
+  },
+  {
+    "nodeId": "19817:55179",
+    "name": "Icon/AI Writing"
+  },
+  {
+    "nodeId": "19817:55180",
+    "name": "Icon/Translate"
+  },
+  {
+    "nodeId": "19817:55181",
+    "name": "Icon/Document Reader"
+  },
+  {
+    "nodeId": "19817:55182",
+    "name": "Icon/Phone Call"
+  },
+  {
+    "nodeId": "19817:55183",
+    "name": "Icon/Timed Task"
+  },
+  {
+    "nodeId": "19817:55184",
+    "name": "Icon/Album"
+  },
+  {
+    "nodeId": "19817:55185",
+    "name": "Icon/Coding"
+  },
+  {
+    "nodeId": "19817:55186",
+    "name": "Icon/Q&A"
+  },
+  {
+    "nodeId": "19817:55187",
+    "name": "Icon/Web Reader"
+  },
+  {
+    "nodeId": "19817:55188",
+    "name": "Icon/Homework Grading"
+  },
+  {
+    "nodeId": "19817:55189",
+    "name": "Icon/AI Create Alt"
+  },
+  {
+    "nodeId": "19817:55195",
+    "name": "Icon/Skills"
+  },
+  {
+    "nodeId": "19817:55197",
+    "name": "Icon/Speaking"
+  },
+  {
+    "nodeId": "19817:55198",
+    "name": "Icon/New Chat"
+  },
+  {
+    "nodeId": "19817:55199",
+    "name": "Icon/Follow Up"
+  },
+  {
+    "nodeId": "19817:55200",
+    "name": "Icon/Navigation Bar"
+  },
+  {
+    "nodeId": "19817:55202",
+    "name": "Icon/Search Alt"
+  },
+  {
+    "nodeId": "19817:55203",
+    "name": "Icon/Search Library"
+  },
+  {
+    "nodeId": "19817:55204",
+    "name": "Icon/Like"
+  },
+  {
+    "nodeId": "19817:55205",
+    "name": "Icon/Dislike"
+  },
+  {
+    "nodeId": "19817:55206",
+    "name": "Icon/Generate Doc"
+  },
+  {
+    "nodeId": "19817:55207",
+    "name": "Icon/Generate Doc Alt"
+  },
+  {
+    "nodeId": "19817:55208",
+    "name": "Icon/History"
+  },
+  {
+    "nodeId": "19817:55209",
+    "name": "Icon/Emoji"
+  },
+  {
+    "nodeId": "19817:55210",
+    "name": "Icon/Sticker"
+  },
+  {
+    "nodeId": "19817:55211",
+    "name": "Icon/Sticker Alt"
+  },
+  {
+    "nodeId": "19817:55212",
+    "name": "Icon/Screen Cast"
+  },
+  {
+    "nodeId": "19817:55213",
+    "name": "Icon/Console"
+  },
+  {
+    "nodeId": "19817:55214",
+    "name": "Icon/Open Float Window"
+  },
+  {
+    "nodeId": "19817:55215",
+    "name": "Icon/Quote"
+  },
+  {
+    "nodeId": "19817:55216",
+    "name": "Icon/Feedback"
+  },
+  {
+    "nodeId": "19817:55217",
+    "name": "Icon/Add Library Alt"
+  },
+  {
+    "nodeId": "19817:55218",
+    "name": "Icon/Live Transcription"
+  },
+  {
+    "nodeId": "19817:55223",
+    "name": "Icon/Open Float Window Alt"
+  },
+  {
+    "nodeId": "19817:55224",
+    "name": "Icon/Problem Solver"
+  },
+  {
+    "nodeId": "19817:55225",
+    "name": "Icon/Health"
+  },
+  {
+    "nodeId": "19817:55226",
+    "name": "Icon/AI Music"
+  },
+  {
+    "nodeId": "19817:55227",
+    "name": "Icon/Add File Alt"
+  },
+  {
+    "nodeId": "19817:55228",
+    "name": "Icon/Document Reader Alt"
+  },
+  {
+    "nodeId": "19817:55229",
+    "name": "Icon/Recording"
+  },
+  {
+    "nodeId": "19817:55230",
+    "name": "Icon/Camera/48"
+  },
+  {
+    "nodeId": "19817:55231",
+    "name": "Icon/Coding AI"
+  },
+  {
+    "nodeId": "19817:55232",
+    "name": "Icon/Add Library"
+  },
+  {
+    "nodeId": "19817:55233",
+    "name": "Icon/Library"
+  },
+  {
+    "nodeId": "19817:55234",
+    "name": "Icon/Library Expanded"
+  },
+  {
+    "nodeId": "19817:55235",
+    "name": "Icon/Move To"
+  },
+  {
+    "nodeId": "19817:55236",
+    "name": "Icon/More Libraries"
+  },
+  {
+    "nodeId": "19817:55238",
+    "name": "Icon/AI Image"
+  },
+  {
+    "nodeId": "19817:55239",
+    "name": "Icon/Expert"
+  },
+  {
+    "nodeId": "19817:55240",
+    "name": "Icon/More Alt"
+  },
+  {
+    "nodeId": "19817:55241",
+    "name": "Icon/Remove"
+  },
+  {
+    "nodeId": "19817:55242",
+    "name": "Icon/More Alt 2"
+  },
+  {
+    "nodeId": "19817:55243",
+    "name": "Icon/New Group"
+  },
+  {
+    "nodeId": "19817:55244",
+    "name": "Icon/Close"
+  },
+  {
+    "nodeId": "19817:55245",
+    "name": "Icon/Tencent Meeting"
+  },
+  {
+    "nodeId": "19817:55246",
+    "name": "Icon/Tencent Meeting Alt 2"
+  },
+  {
+    "nodeId": "19817:55247",
+    "name": "Icon/Yuanbao"
+  },
+  {
+    "nodeId": "19817:55248",
+    "name": "Icon/Yuanbao Alt"
+  },
+  {
+    "nodeId": "19817:55249",
+    "name": "Icon/Tencent Meeting Alt"
+  },
+  {
+    "nodeId": "19817:55250",
+    "name": "Icon/Ratio 1-1"
+  },
+  {
+    "nodeId": "19817:55251",
+    "name": "Icon/Arrow Left"
+  },
+  {
+    "nodeId": "19817:55255",
+    "name": "Icon/Remix"
+  },
+  {
+    "nodeId": "19817:55257",
+    "name": "Icon/Arrow Right"
+  },
+  {
+    "nodeId": "19817:55258",
+    "name": "Icon/Arrow Down"
+  },
+  {
+    "nodeId": "19817:55259",
+    "name": "Icon/Arrow Up"
+  },
+  {
+    "nodeId": "19817:55267",
+    "name": "Icon/Ratio 3-4"
+  },
+  {
+    "nodeId": "19817:55268",
+    "name": "Icon/Ratio 4-3"
+  },
+  {
+    "nodeId": "19817:55269",
+    "name": "Icon/Ratio 9-16"
+  },
+  {
+    "nodeId": "19817:55270",
+    "name": "Icon/Ratio 16-9"
+  },
+  {
+    "nodeId": "19817:55271",
+    "name": "Icon/Quick Tools"
+  },
+  {
+    "nodeId": "19817:55272",
+    "name": "Icon/My Bot"
+  },
+  {
+    "nodeId": "19817:55273",
+    "name": "Icon/Lab"
+  },
+  {
+    "nodeId": "19817:55274",
+    "name": "Icon/Share Alt"
+  },
+  {
+    "nodeId": "19817:55275",
+    "name": "Icon/Link Share"
+  },
+  {
+    "nodeId": "19817:55276",
+    "name": "Icon/AI Summary"
+  },
+  {
+    "nodeId": "19817:55277",
+    "name": "Icon/Video"
+  },
+  {
+    "nodeId": "19817:55278",
+    "name": "Icon/Data Management"
+  },
+  {
+    "nodeId": "19817:55279",
+    "name": "Icon/Keyboard"
+  },
+  {
+    "nodeId": "19817:55280",
+    "name": "Icon/About Us"
+  },
+  {
+    "nodeId": "19817:55281",
+    "name": "Icon/Warning"
+  },
+  {
+    "nodeId": "19817:55282",
+    "name": "Icon/Help circle"
+  },
+  {
+    "nodeId": "19817:55283",
+    "name": "Icon/Disabled"
+  },
+  {
+    "nodeId": "19817:55284",
+    "name": "Icon/Minus circle"
+  },
+  {
+    "nodeId": "19817:55285",
+    "name": "Icon/Create Account"
+  },
+  {
+    "nodeId": "19817:55286",
+    "name": "Icon/Yuanbao Rewards"
+  },
+  {
+    "nodeId": "19817:55287",
+    "name": "Icon/Deep"
+  },
+  {
+    "nodeId": "19817:55288",
+    "name": "Icon/Chat History"
+  },
+  {
+    "nodeId": "19817:55289",
+    "name": "Icon/Hy Image 3.0"
+  },
+  {
+    "nodeId": "19817:55290",
+    "name": "Icon/Share"
+  },
+  {
+    "nodeId": "19817:55295",
+    "name": "Icon/My Favorites"
+  },
+  {
+    "nodeId": "19817:55296",
+    "name": "Icon/Unfavorite"
+  },
+  {
+    "nodeId": "19817:55297",
+    "name": "Icon/Command"
+  },
+  {
+    "nodeId": "19817:55298",
+    "name": "Icon/Local File"
+  },
+  {
+    "nodeId": "19817:55299",
+    "name": "Icon/Tencent Docs"
+  },
+  {
+    "nodeId": "19817:55300",
+    "name": "Icon/Tencent file-filled"
+  },
+  {
+    "nodeId": "19817:55301",
+    "name": "Icon/Screenshot"
+  },
+  {
+    "nodeId": "19817:55302",
+    "name": "Icon/Team Management"
+  },
+  {
+    "nodeId": "19817:55303",
+    "name": "Icon/Copy"
+  },
+  {
+    "nodeId": "19817:55304",
+    "name": "Icon/Multi Select"
+  },
+  {
+    "nodeId": "19817:55306",
+    "name": "Icon/Resolution"
+  },
+  {
+    "nodeId": "19817:55307",
+    "name": "Icon/My Account"
+  },
+  {
+    "nodeId": "19817:55308",
+    "name": "Icon/Add Friend"
+  },
+  {
+    "nodeId": "19817:55309",
+    "name": "Icon/Settings"
+  },
+  {
+    "nodeId": "19817:55310",
+    "name": "Icon/Deep Research"
+  },
+  {
+    "nodeId": "19817:55311",
+    "name": "Icon/Read Aloud"
+  },
+  {
+    "nodeId": "19817:55312",
+    "name": "Icon/Mute"
+  },
+  {
+    "nodeId": "19817:55314",
+    "name": "Icon/Locate Chat"
+  },
+  {
+    "nodeId": "19817:55316",
+    "name": "Icon/Maximize"
+  },
+  {
+    "nodeId": "19817:55317",
+    "name": "Icon/Text Selection"
+  },
+  {
+    "nodeId": "19817:55320",
+    "name": "Icon/Invite Code"
+  },
+  {
+    "nodeId": "19817:55321",
+    "name": "Icon/Plugin"
+  },
+  {
+    "nodeId": "19817:55322",
+    "name": "Icon/Eye"
+  },
+  {
+    "nodeId": "19817:55323",
+    "name": "Icon/Eye off"
+  },
+  {
+    "nodeId": "19817:55324",
+    "name": "Icon/Send"
+  },
+  {
+    "nodeId": "19817:55325",
+    "name": "Icon/Chevron Right"
+  },
+  {
+    "nodeId": "19817:55326",
+    "name": "Icon/Chevron Left"
+  },
+  {
+    "nodeId": "19817:55327",
+    "name": "Icon/Chevron Down"
+  },
+  {
+    "nodeId": "19817:55328",
+    "name": "Icon/Mark Read"
+  },
+  {
+    "nodeId": "19817:55329",
+    "name": "Icon/WeChat"
+  },
+  {
+    "nodeId": "19817:55330",
+    "name": "Icon/QQ filled"
+  },
+  {
+    "nodeId": "19817:55331",
+    "name": "Icon/WeChat Alt"
+  },
+  {
+    "nodeId": "19817:55332",
+    "name": "Icon/Apple"
+  },
+  {
+    "nodeId": "19817:55333",
+    "name": "Icon/Lens"
+  },
+  {
+    "nodeId": "19817:55334",
+    "name": "Icon/Windows"
+  },
+  {
+    "nodeId": "19817:55335",
+    "name": "Icon/Windows filled"
+  },
+  {
+    "nodeId": "19817:55337",
+    "name": "Icon/Edit"
+  },
+  {
+    "nodeId": "19817:55338",
+    "name": "Icon/pin"
+  },
+  {
+    "nodeId": "19817:55339",
+    "name": "Icon/unpin"
+  },
+  {
+    "nodeId": "19817:55340",
+    "name": "Icon/Network"
+  },
+  {
+    "nodeId": "19817:55342",
+    "name": "Icon/Quote Alt"
+  },
+  {
+    "nodeId": "19817:55343",
+    "name": "Icon/Lock"
+  },
+  {
+    "nodeId": "19817:55344",
+    "name": "Icon/Unlock"
+  },
+  {
+    "nodeId": "19817:55345",
+    "name": "Icon/Remove From"
+  },
+  {
+    "nodeId": "19817:55346",
+    "name": "Icon/memory"
+  },
+  {
+    "nodeId": "19817:55348",
+    "name": "Icon/travel"
+  },
+  {
+    "nodeId": "19817:55349",
+    "name": "Icon/scan"
+  }
+]

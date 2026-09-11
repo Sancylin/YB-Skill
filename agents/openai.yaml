@@ -1,0 +1,25 @@
+interface:
+  display_name: "元宝移动端设计工作流"
+  short_description: "按风险自适应 Fast/Standard/Full，再实时复用元宝组件库生成 Figma / Demo，并保留布局几何硬门禁"
+  default_prompt: "使用 $yb-mobile-design。先确定 Figma、网页交互 Demo 或两者，再按结构风险选择最低安全的 Fast/Standard/Full，并允许运行中升级。把需求拆成 Requirement Spec → Experience Decision → UX/UI Freeze；不要因为组件可用性提前决定主流程。体验冻结后先扫描原输入文件已有页面，再检查组件库【AI参考案例】Template 和用户参考；同类页面按直接复用、改造复用或仅参考作页面级决策，旧页面与旧资产有效时就接入流程或作为后续页面的连续性提示，再解析元宝组件库，同类槽位批量检索、完整候选早停；业务输出始终回到原输入文件，生成后所有档位都做 layout-geometry、overflow、content、node-audit 和当次截图，修复全部 P0～P2 后交付。"
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "figma"
+      description: "Figma MCP server：发布库身份、设计上下文、截图和授权写入"
+    - type: "mcp"
+      value: "get_libraries"
+      description: "解析当次发布库 libraryKey、版本与页面，作为 liveLibrary 身份来源"
+    - type: "mcp"
+      value: "list_file_components_for_code_connect"
+      description: "按当前接口完整列出已发布组件目录；仅接口支持时分页，作为 libraryCatalog.ids 的唯一合法来源"
+    - type: "mcp"
+      value: "search_design_system"
+      description: "在当次发布库内做语义检索，命中候选仍需描述门禁复核"
+    - type: "mcp"
+      value: "get_design_context"
+      description: "读取节点 description、公开属性、Slot、父子关系与库归属"
+    - type: "mcp"
+      value: "get_screenshot"
+      description: "导出当次视觉证据，供 visual 与 both parity 检查引用"
