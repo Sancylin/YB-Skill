@@ -1,4 +1,4 @@
-name: YB V6 Playground
+name: YB V6 Offline Build Dependencies
 
 on:
   push:
@@ -7,15 +7,9 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
 
 jobs:
-  build:
+  deps:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -28,56 +22,18 @@ jobs:
           cache: npm
           cache-dependency-path: demo/package-lock.json
 
-      - name: Install dependencies
+      - name: Install demo dependencies
         working-directory: demo
         run: npm ci
 
-      - name: Build demo for GitHub Pages
-        working-directory: demo
-        run: npx vite build --base=/YB-Skill/
-
-      - name: Rewrite public asset roots for project Pages
-        working-directory: demo
+      - name: Pack local build dependencies
         shell: bash
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          roots = [
-              "icons", "images", "img-viewer", "ipad",
-              "loading", "previews"
-          ]
-          files = [
-              "favicon.svg",
-              "yuanbao-brand.svg",
-          ]
-          for path in Path("dist").rglob("*"):
-              if not path.is_file() or path.suffix.lower() not in {".html",".js",".css"}:
-                  continue
-              text = path.read_text(encoding="utf-8")
-              for root in roots:
-                  text = text.replace(f"/{root}/", f"/YB-Skill/{root}/")
-              for name in files:
-                  text = text.replace(f"/{name}", f"/YB-Skill/{name}")
-              path.write_text(text, encoding="utf-8")
-          PY
+        run: tar -C demo -czf yb-preview-deps.tgz node_modules package.json package-lock.json
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
+      - name: Upload build dependencies
+        uses: actions/upload-artifact@v4
         with:
-          enablement: true
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: demo/dist
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          name: yb-preview-deps
+          path: yb-preview-deps.tgz
+          compression-level: 0
+          if-no-files-found: error
